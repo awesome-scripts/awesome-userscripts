@@ -22,6 +22,7 @@ To use user scripts you need to first install a user script manager. For Firefox
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [Google Images direct link](https://greasyfork.org/en/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
+* [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/404-mouseover-popup-image-viewer) - Shows images and videos behind links and thumbnails.
 * [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
