@@ -19,6 +19,7 @@ To use user scripts you need to first install a user script manager. For Firefox
 
 ## General
 
+* [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [Bypass Ads](https://greasyfork.org/en/scripts/4881-adsbypasser) - Bypass Ads, Popups and count-down ads.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [Google Images direct link](https://greasyfork.org/en/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
