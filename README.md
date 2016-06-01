@@ -25,6 +25,7 @@ To use user scripts you need to first install a user script manager. For Firefox
 * [Google Images direct link](https://greasyfork.org/en/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/404-mouseover-popup-image-viewer) - Shows images and videos behind links and thumbnails.
+* [Select text inside a link like Opera](https://greasyfork.org/en/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text..
 * [Show and reload broken images](https://greasyfork.org/en/scripts/790-show-and-reload-broken-images) - Show and reload broken images, even when it contains "alt" tag.
 * [Show Password onMouseOver](https://greasyfork.org/en/scripts/32-show-password-onmouseover) - Show password when mouseover on password field.
 * [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
