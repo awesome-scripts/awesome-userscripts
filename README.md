@@ -2,19 +2,23 @@
 
 A curated list of Awesome Userscripts.
 
-- [Awesome Usersripts](#userscripts)
+User scripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
+
+
+# Table of Contents
+
+- [How to use](#usage)
+- [Scripts](#userscripts)
   - [General](#general)
   - [GitHub](#github)
   - [Privacy](#privacy)
-  - [Youtube](#youtube)
+  - [YouTube](#youtube)
 - [Additional Catalogues](#additional-catalogues)
 - [Contributing](#contributing)
 
 
 
-## User Scripts
-
-User scripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
+## How to use
 
 To use user scripts you need to first install a user script manager. Here are the most popular managers:
 - [Greasemonkey](http://www.greasespot.net/) - Firefox
@@ -23,7 +27,10 @@ To use user scripts you need to first install a user script manager. Here are th
 
 There's no focused plugins to get Userscripts running on Microsoft Edge or Internet Explorer, but the [Adguard](https://adguard.com/) extension provide this feature. 
 
-## General
+
+## Scripts
+
+### General
 
 * [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [Bypass Ads](https://greasyfork.org/en/scripts/4881-adsbypasser) - Bypass Ads, Popups and count-down ads.
@@ -36,22 +43,22 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 * [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
-## GitHub
+### GitHub
 
 * [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 
-## Privacy
+### Privacy
 
 * [Remove Google Click Tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links
 
 
-## Youtube
+### YouTube
 
 * [Download YouTube Videos as MP4](https://greasyfork.org/en/scripts/1317-download-youtube-videos-as-mp4) - Adds a button that lets you download YouTube videos.
 * [YouTube Link Title](https://greasyfork.org/en/scripts/413-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
-* [Youtube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
+* [YouTube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
 
 
 
