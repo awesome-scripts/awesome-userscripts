@@ -1,11 +1,13 @@
-# Awesome UserScripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Awesome UserScripts.
+A curated list of Awesome Userscripts.
 
-- [Awesome UserScripts](#userscripts)
+- [Awesome Usersripts](#userscripts)
   - [General](#general)
+  - [GitHub](#github)
   - [Privacy](#privacy)
   - [Youtube](#youtube)
+- [Additional Catalogues](#additional-catalogues)
 - [Contributing](#contributing)
 
 
@@ -14,14 +16,17 @@ A curated list of Awesome UserScripts.
 
 User scripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
 
-To use user scripts you need to first install a user script manager. For Firefox, the best choice is [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/). For Chrome: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo). 
+To use user scripts you need to first install a user script manager. Here are the most popular managers:
+- [Greasemonkey](http://www.greasespot.net/) - Firefox
+- [Tampermonkey](https://tampermonkey.net/) - Chrome, Safari, Opera, Firefox (also with support for mobile Dolphin Browser and UC Browser)
 
+
+There's no focused plugins to get Userscripts running on Microsoft Edge or Internet Explorer, but the [Adguard](https://adguard.com/) extension provide this feature. 
 
 ## General
 
 * [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [Bypass Ads](https://greasyfork.org/en/scripts/4881-adsbypasser) - Bypass Ads, Popups and count-down ads.
-* [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [Google Images direct link](https://greasyfork.org/en/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
 * [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/404-mouseover-popup-image-viewer) - Shows images and videos behind links and thumbnails.
@@ -31,6 +36,10 @@ To use user scripts you need to first install a user script manager. For Firefox
 * [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
+## GitHub
+
+* [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+* [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 
 
 ## Privacy
@@ -46,6 +55,13 @@ To use user scripts you need to first install a user script manager. For Firefox
 
 
 
+
+
+# Additional Catalogues
+
+* [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository, that is currently down.
+* [Greasy Fork](https://greasyfork.org/)
+* [OpenUserJS](https://openuserjs.org/)
 
 
 
