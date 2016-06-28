@@ -45,9 +45,12 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 
 ### GitHub
 
+* [GitHub Comment Enhancer](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace) - Add features to enhance comments, wiki and contact page on GitHub.
+* [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace) - Adds button to hide whitespace diffs from commits.
 * [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
-
+* [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info) - Show user information on avatar hover.
+* [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer) - Preview images from within the file listing.
 
 ### Privacy
 
