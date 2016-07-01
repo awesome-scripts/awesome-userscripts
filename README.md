@@ -80,3 +80,9 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 Contributions are very welcome!
 
 Please have a look at [CONTRIBUTING](https://github.com/brunocvcunha/awesome-userscripts/blob/master/CONTRIBUTING.md) for guidelines.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Bruno Candido Volpato da Cunha](http://www.brunocandido.com) has waived all copyright and related or neighboring rights to this work.
