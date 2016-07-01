@@ -13,8 +13,10 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
   - [GitHub](#github)
   - [Privacy](#privacy)
   - [YouTube](#youtube)
+- [Tutorials](#tutorials)
 - [Additional Catalogues](#additional-catalogues)
 - [Contributing](#contributing)
+- [License](#license)
 
 
 
@@ -65,9 +67,11 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 
 
 
+## Tutorials
 
+  - TBD.
 
-# Additional Catalogues
+## Additional Catalogues
 
 * [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository, that is currently down.
 * [Greasy Fork](https://greasyfork.org/)
@@ -75,7 +79,7 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 
 
 
-# Contributing
+## Contributing
 
 Contributions are very welcome!
 
