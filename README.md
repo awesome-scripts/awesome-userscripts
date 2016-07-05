@@ -14,6 +14,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
   - [Privacy](#privacy)
   - [YouTube](#youtube)
 - [Tutorials](#tutorials)
+- [Community](#community)
 - [Additional Catalogues](#additional-catalogues)
 - [Contributing](#contributing)
 - [License](#license)
@@ -78,6 +79,12 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 * [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
 * [Greasy Fork](https://greasyfork.org/)
 * [OpenUserJS](https://openuserjs.org/)
+
+
+## Community
+
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/userscripts)
+* [`#greasemonkey` on Freenode](http://webchat.freenode.net/?channels=greasemonkey)
 
 
 
