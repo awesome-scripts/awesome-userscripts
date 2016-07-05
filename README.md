@@ -69,11 +69,13 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 
 ## Tutorials
 
-  - TBD.
+  - [Greasemonkey Hacks](http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks) - Complete wiki book on Userscripts.
+  - [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
+  - [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
 
 ## Additional Catalogues
 
-* [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository, that is currently down.
+* [UserScripts Mirror](http://userscripts-mirror.org/) - Mirror of the original Userscripts.org repository (that is currently down).
 * [Greasy Fork](https://greasyfork.org/)
 * [OpenUserJS](https://openuserjs.org/)
 
