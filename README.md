@@ -66,6 +66,7 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 * [Download YouTube Videos as MP4](https://greasyfork.org/en/scripts/1317-download-youtube-videos-as-mp4) - Adds a button that lets you download YouTube videos.
 * [YouTube Link Title](https://greasyfork.org/en/scripts/413-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
 * [YouTube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
+* [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 
 
