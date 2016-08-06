@@ -5,7 +5,7 @@ A curated list of Awesome Userscripts.
 User scripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
 
 
-# Table of Contents
+# Contents
 
 - [How to use](#usage)
 - [Scripts](#userscripts)
