@@ -58,7 +58,7 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 
 ### Privacy
 
-* [Remove Google Click Tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
+* [Remove Google Click Tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.]
 
 
 ### YouTube
@@ -87,7 +87,7 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/userscripts)
 * [`#greasemonkey` on Freenode](http://webchat.freenode.net/?channels=greasemonkey)
-
+* [`r/userscripts` on Reddit](https://www.reddit.com/r/userscripts/)
 
 
 ## Contributing
