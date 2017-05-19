@@ -92,7 +92,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Privacy
 
-* [Remove Google Click Tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.]
+* [Remove Google Click Tracking](https://greasyfork.org/en/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 
 
 ### YouTube
