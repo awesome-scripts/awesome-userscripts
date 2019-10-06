@@ -45,6 +45,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Show and reload broken images](https://greasyfork.org/en/scripts/790-show-and-reload-broken-images) - Show and reload broken images, even when it contains "alt" tag.
 * [Show Password onMouseOver](https://greasyfork.org/en/scripts/32-show-password-onmouseover) - Show password when mouseover on password field.
 * [URL Shortener Unshortener](https://greasyfork.org/en/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
+* [Reddit Search On Google](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 
 
 ### GitHub
