@@ -23,9 +23,14 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 
 ## How to use
 
-To use user scripts you need to first install a user script manager. Here are the most popular managers:
+To use user scripts you need to first install a user script manager. Here are managers for various browsers:
+
 - [Greasemonkey](http://www.greasespot.net/) - Firefox
 - [Tampermonkey](https://tampermonkey.net/) - Chrome, Microsoft Edge, Safari, Opera, Firefox (also with support for mobile Dolphin Browser and UC Browser)
+- [Violentmonkey](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+- [USI](https://addons.mozilla.org/en-US/firefox/addon/userunified-script-injector/) - Firefox
+- [Firemonkey](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/) - Firefox
+- [Greasemonkey for Pale Moon](https://github.com/janekptacijarabaci/greasemonkey/releases) - Pale Moon
 
 There's no focused plugins to get Userscripts running on Internet Explorer, but the [Adguard](https://adguard.com/) extension provide this feature.
 
