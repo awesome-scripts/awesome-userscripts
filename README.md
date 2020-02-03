@@ -103,7 +103,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### YouTube
 
-* [YouTube Link Title](https://greasyfork.org/en/scripts/413-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
+* [YouTube Link Title](https://greasyfork.org/en/scripts/390656-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
 * [YouTube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
 * [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
@@ -139,4 +139,4 @@ Please have a look at [CONTRIBUTING](https://github.com/brunocvcunha/awesome-use
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Bruno Candido Volpato da Cunha](http://www.brunocandido.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Bruno Candido Volpato da Cunha](mailto:brunocvcunha@gmail.com) has waived all copyright and related or neighboring rights to this work.
