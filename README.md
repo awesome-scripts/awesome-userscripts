@@ -37,6 +37,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [Bypass Ads](https://greasyfork.org/en/scripts/4881-adsbypasser) - Bypass Ads, Popups and count-down ads.
 * [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
+* [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 * [Google Images direct link](https://greasyfork.org/en/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 * [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
