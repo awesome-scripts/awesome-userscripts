@@ -123,7 +123,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 ### Media
 
 * [Handy Image](https://greasyfork.org/scripts/109-handy-image) - Displays the full size image for many image hosting websites, skipping popups and other annoying stuff.
-* [Image Max URL](https://greasyfork.org/scripts/36662-image-max-url) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
+* [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
 * [Mouseover Popup Image Viewer](https://greasyfork.org/scripts/404-mouseover-popup-image-viewer) - (Deprecated) Shows images and videos behind links and thumbnails.
 * [Mouseover Popup Image Viewer (updated fork)](https://greasyfork.org/scripts/394820-mouseover-popup-image-viewer) - An updated fork of MPIV, maintained by one of Violentmonkey's developers.
 * [Picviewer CE+](https://greasyfork.org/scripts/24204-picviewer-ce) - Powerful picture viewing tool which can popup/scale/rotate/batch save pictures automatically.
