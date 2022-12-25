@@ -7,7 +7,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 
 # Contents
 
-- [How to use](#How_to_use)
+- [How to use](#how-to-use)
 - [Scripts](#scripts)
   - [General](#general)
   - [Ads](#ads)
