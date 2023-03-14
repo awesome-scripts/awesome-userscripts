@@ -64,9 +64,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AntiAdware](https://greasyfork.org/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
-### ChatGPT
-
-* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### GitHub
 
@@ -136,6 +133,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Remove Yandex Redirect](https://greasyfork.org/scripts/22737-remove-yandex-redirect) - Removes Yandex's click-tracking from result links.
+* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 
 ### YouTube
