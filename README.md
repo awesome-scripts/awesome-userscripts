@@ -64,6 +64,10 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AntiAdware](https://greasyfork.org/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
+### ChatGPT
+
+* [ChatGPT Widescreen Mode](https://github.com/adamlui/userscripts/tree/master/chatgpt/chatgpt-widescreen-mode) - Adds Widescreen + Full-Window modes to ChatGPT for reduced scrolling.
+
 
 ### GitHub
 
