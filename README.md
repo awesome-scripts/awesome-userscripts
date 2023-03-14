@@ -65,6 +65,11 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
 
+### DuckDuckGo
+
+* [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
+
+
 ### GitHub
 
 * [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
