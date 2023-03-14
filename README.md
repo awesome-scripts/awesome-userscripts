@@ -64,6 +64,9 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AntiAdware](https://greasyfork.org/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
+### ChatGPT
+
+* [Autoclear ChatGPT History](https://github.com/adamlui/userscripts/tree/master/chatgpt/autoclear-chatgpt-history) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 
 ### GitHub
 
