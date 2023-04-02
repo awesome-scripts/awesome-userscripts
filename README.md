@@ -23,7 +23,6 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 - [License](#license)
 
 
-
 ## How to use
 
 To use user scripts you need to first install a user script manager. Here are managers for various browsers:
@@ -47,6 +46,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 
 ## Scripts
+
 
 ### General
 
@@ -117,6 +117,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
 * [Github Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 
+
 ### Google
 
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
@@ -150,7 +151,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 
-
 ## Tutorials
 
   - [Greasemonkey Hacks](http://commons.oreilly.com/wiki/index.php/Greasemonkey_Hacks) - Complete wiki book on Userscripts.
@@ -177,6 +177,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 Contributions are very welcome!
 
 Please have a look at [CONTRIBUTING](https://github.com/brunocvcunha/awesome-userscripts/blob/master/CONTRIBUTING.md) for guidelines.
+
 
 ## License
 
