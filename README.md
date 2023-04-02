@@ -61,12 +61,17 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 ### Ads
 
 * [Anti-Adblock Killer](http://reek.github.io/anti-adblock-killer/) - Bypasses anti-adblock functionality in websites.
-* [AntiAdware](https://greasyfork.org/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
+* [AntiAdware](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
 ### ChatGPT
 
 * [ChatGPT Widescreen Mode](https://github.com/adamlui/userscripts/tree/master/chatgpt/chatgpt-widescreen-mode) - Adds Widescreen + Full-Window modes to ChatGPT for reduced scrolling.
+
+
+### DuckDuckGo
+
+* [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
 
 
 ### GitHub
@@ -135,6 +140,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Privacy
 
+* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Remove Yandex Redirect](https://greasyfork.org/scripts/22737-remove-yandex-redirect) - Removes Yandex's click-tracking from result links.
 
