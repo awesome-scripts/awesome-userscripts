@@ -86,19 +86,17 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### GitHub
 
-* [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+* [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-* [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+* [GitHub Diff File Toggle](https://greasyfork.org/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
+* [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
+* [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
 * [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
-* [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
-* [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site.
-* [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
-* [GitHub Diff File Toggle](https://greasyfork.org/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
 * [GitHub Toggle Code Wrap](https://greasyfork.org/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
-* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-* [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
+* [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
 * [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 * [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
 * [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
@@ -116,6 +114,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - Show the number of issues in repository view.
 * [GitHub issue highlighter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - Highlight the linked issue.
 * [GitHub label color picker](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-label-color-picker) - Add an extensive color picker to the label editor.
+* [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
 * [GitHub remove diff signs](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - Remove diff signs from file diffs.
 * [GitHub rtl comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - Add right-to-left indicators in comments.
 * [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - Add a search filter autocomplete to all of GitHub.
@@ -125,10 +124,11 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
 * [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
-* [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
+* [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
 * [Github News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-* [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
 * [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+* [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+* [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 * [Github Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 
 
