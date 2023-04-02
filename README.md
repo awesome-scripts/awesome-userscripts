@@ -11,6 +11,9 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 - [Scripts](#scripts)
   - [General](#general)
   - [Ads](#ads)
+  - [Brave Search](#brave-search)
+  - [ChatGPT](#chatgpt)
+  - [DuckDuckGo](#duckduckgo)
   - [GitHub](#github)
   - [Google](#google)
   - [Media](#media)
@@ -68,6 +71,12 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 ### Brave Search
 
 * [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
+
+
+### ChatGPT
+
+* [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh/tree/main/greasemonkey) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+* [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen/tree/main/greasemonkey) - Adds Widescreen + Full-Window modes to ChatGPT.
 
 
 ### DuckDuckGo
