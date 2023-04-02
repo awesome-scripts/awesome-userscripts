@@ -136,6 +136,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Privacy
 
+* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Remove Yandex Redirect](https://greasyfork.org/scripts/22737-remove-yandex-redirect) - Removes Yandex's click-tracking from result links.
 
