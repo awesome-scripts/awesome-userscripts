@@ -65,9 +65,14 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
 
+### Brave Search
+
+* [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
+
+
 ### DuckDuckGo
 
-* [DuckDuckGPT](https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt) - Display ChatGPT answers in DuckDuckGo sidebar.
+* [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - Display ChatGPT answers in DuckDuckGo sidebar.
 
 
 ### GitHub
@@ -137,7 +142,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Privacy
 
-* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Remove Yandex Redirect](https://greasyfork.org/scripts/22737-remove-yandex-redirect) - Removes Yandex's click-tracking from result links.
 
