@@ -161,7 +161,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Hide YouTube recommendations](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 * [Iridium](https://greasyfork.org/scripts/37902-iridium) - Adds a lot of extra functionality to YouTube, including pop-out videos, extra control over video/comment feeds, and much more.
 * [YouTube Link Title](https://greasyfork.org/scripts/390656-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
-* [YouTube Plus](https://greasyfork.org/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
 * [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 
