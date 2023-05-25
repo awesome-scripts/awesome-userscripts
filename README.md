@@ -75,6 +75,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### ChatGPT
 
+* [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) - Automatically continue generating multiple ChatGPT responses.
 * [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
 * [ChatGPT Infinity](https://chatgptevo.com/infinity) - Generate endless answers from all-knowing ChatGPT (in any language!) 
 * [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) - Adds Widescreen + Full-Window modes to ChatGPT.
