@@ -75,11 +75,11 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### ChatGPT
 
-* [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) - Automatically continue generating multiple ChatGPT responses.
-* [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+* [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
+* [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
 * [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (in any language!) 
 * [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Adds Widescreen + Fullscreen modes to ChatGPT.
-* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+* [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 * [BraveGPT](https://bravegpt.com/greasemonkey) - Display ChatGPT answers in Brave Search sidebar.
 * [DuckDuckGPT](https://duckduckgpt.com/greasemonkey) - Display ChatGPT answers in DuckDuckGo sidebar.
 
