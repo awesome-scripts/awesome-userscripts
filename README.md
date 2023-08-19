@@ -135,6 +135,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
 * [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
 * [Github Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
+* [GitHub Star History](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 
 
 ### Google
