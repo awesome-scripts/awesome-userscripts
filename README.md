@@ -130,12 +130,12 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
 * [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
-* [Github Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
-* [Github News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-* [Github Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
-* [Github Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-* [Github Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
-* [Github Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
+* [GitHub Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
+* [GitHub News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
+* [GitHub Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
+* [GitHub Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
+* [GitHub Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
+* [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 * [GitHub Star History](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 
 
