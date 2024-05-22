@@ -169,6 +169,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Hide YouTube recommendations](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 * [Iridium](https://greasyfork.org/scripts/37902-iridium) - Adds a lot of extra functionality to YouTube, including pop-out videos, extra control over video/comment feeds, and much more.
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts).
+* [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
 * [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a Youtube link from almost any website.
 * [YouTube Subtitle Download](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
