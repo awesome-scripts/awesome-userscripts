@@ -11,6 +11,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 - [Scripts](#scripts)
   - [General](#general)
   - [Ads](#ads)
+  - [Amazon](#amazon)
   - [Brave Search](#brave-search)
   - [ChatGPT](#chatgpt)
   - [DuckDuckGo](#duckduckgo)
@@ -68,6 +69,11 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
 
+### Amazon
+
+* [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
+
+
 ### Brave Search
 
 * [BraveGPT](https://bravegpt.com) - Adds AI answers to Brave Search. Ask from any site. Powered by GPT-4o!
@@ -75,6 +81,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### ChatGPT
 
+* [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
 * [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
 * [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
 * [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (in any language!) 
