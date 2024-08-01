@@ -84,6 +84,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
 * [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
 * [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
+* [ChatGPT Auto-Talk](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 * [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (in any language!) 
 * [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Adds Widescreen + Fullscreen modes to ChatGPT + Poe.
 * [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
