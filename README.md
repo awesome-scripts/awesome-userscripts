@@ -155,6 +155,8 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [Reddit Search On Google](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 * [Share Google Slides Control](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
+* [Google Scholar Save All](https://greasyfork.org/en/scripts/511771-google-scholar-save-all) - Adds a Save All button to save all articles on the page in Google Scholar
+
 
 
 ### Media
