@@ -11,7 +11,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 - [Scripts](#scripts)
   - [Ads](#ads)
   - [Amazon](#amazon)
-  - [Brave Search](#brave-search)
+  - [Brave](#brave)
   - [ChatGPT](#chatgpt)
   - [DuckDuckGo](#duckduckgo)
   - [GitHub](#github)
@@ -65,16 +65,16 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.
 
 
-### Brave Search
+### Brave
 
-* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.
+* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave, powered by the latest LLMs.
 
 
 ### ChatGPT
 
 * [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
 * [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
-* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.
+* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave, powered by the latest LLMs.
 * [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
 * [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
 * [ChatGPT Auto-Talk](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
