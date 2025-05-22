@@ -7,7 +7,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 
 # Contents
 
-- [How to use](#how-to-use)
+- [Compatibility](#compatibility)
 - [Scripts](#scripts)
   - [Ads](#ads)
   - [Amazon](#amazon)
@@ -29,7 +29,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
 - [License](#license)
 
 
-## How to use
+## Compatibility
 
 To use user scripts you need to first install a user script manager. Here are managers for various browsers:
 
