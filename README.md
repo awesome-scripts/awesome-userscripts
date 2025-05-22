@@ -62,31 +62,31 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Amazon
 
-* [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
+* [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.
 
 
 ### Brave Search
 
-* [BraveGPT](https://bravegpt.com) - Adds AI answers to Brave Search. Ask from any site. Powered by GPT-4o!
+* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.
 
 
 ### ChatGPT
 
 * [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
 * [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
-* [BraveGPT](https://bravegpt.com) - Adds AI answers to Brave Search. Ask from any site. Powered by GPT-4o!
+* [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.
 * [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
 * [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
 * [ChatGPT Auto-Talk](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 * [ChatGPT Infinity](https://chatgptinfinity.com) - Generate endless answers from all-knowing ChatGPT (on any topic!) 
 * [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
-* [DuckDuckGPT](https://duckduckgpt.com) - Adds AI answers to DuckDuckGo. Ask from any site. Powered by GPT-4o!
-* [GoogleGPT](https://googlegpt.io) - Adds AI answers to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+* [DuckDuckGPT](https://duckduckgpt.com) - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.
+* [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
 
 
 ### DuckDuckGo
 
-* [DuckDuckGPT](https://duckduckgpt.com) - Adds AI answers to DuckDuckGo. Ask from any site. Powered by GPT-4o!
+* [DuckDuckGPT](https://duckduckgpt.com) - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.
 
 
 ### GitHub
@@ -144,7 +144,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 * [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 * [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
-* [GoogleGPT](https://googlegpt.io) - Adds AI answers to Google Search. Ask from any site. Powered by Google Gemma + GPT-4o!
+* [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
 * [Reddit Search On Google](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
 * [Share Google Slides Control](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
 
