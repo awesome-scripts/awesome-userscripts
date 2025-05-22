@@ -55,6 +55,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 ### General
 
 * [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
+* [Just Eat Userscript](https://github.com/S4N-T0S/JustEat-userscript) - Adds dark mode and advanced filters to [Just Eat UK](https://www.just-eat.co.uk). (UK only)
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
 * [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
 * [Show and reload broken images](https://greasyfork.org/scripts/790-show-and-reload-broken-images) - Show and reload broken images, even when it contains "alt" tag.
