@@ -20,6 +20,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
   - [Just Eat (UK only)](#just-eat-uk-only)
   - [Media](#media)
   - [Privacy](#privacy)
+  - [Redirection](#redirection)
   - [YouTube](#youtube)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -55,12 +56,8 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### General
 
-* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
-* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
 * [Show and reload broken images](https://greasyfork.org/scripts/790-show-and-reload-broken-images) - Show and reload broken images, even when it contains "alt" tag.
 * [Show Password onMouseOver](https://greasyfork.org/scripts/32-show-password-onmouseover) - Show password when mouseover on password field.
-* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
 ### Ads
@@ -177,6 +174,14 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Remove Yandex Redirect](https://greasyfork.org/scripts/22737-remove-yandex-redirect) - Removes Yandex's click-tracking from result links.
+
+
+### Redirection
+
+* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
+* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
+* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
 ### YouTube
