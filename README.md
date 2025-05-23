@@ -95,7 +95,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
-* [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
 * [GitHub code show whitespace](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (spaces/tabs/carriage returns) in files.
 * [GitHub collapse in comment](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-in-comment) - Toggle long code blocks in comments.
 * [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
