@@ -106,7 +106,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub table of contents](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-table-of-contents) - Show a TOC window for Readme and wiki pages.
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
 * [GitHub Toggle Code Wrap](https://greasyfork.org/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
-* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
 
 
