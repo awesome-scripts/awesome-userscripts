@@ -201,4 +201,4 @@ To the extent possible under law, [Bruno Candido Volpato da Cunha](mailto:brunoc
 
 #
 
-[Back to top ↑](#awesome-userscripts---)
+[Back to top ↑](#awesome-userscripts--)
