@@ -21,6 +21,7 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
   - [Passwords](#passwords)
   - [Privacy](#privacy)
   - [Redirection](#redirection)
+  - [Text-to-speech](#text-to-speech)
   - [Translation](#translation)
   - [YouTube](#youtube)
 - [Tutorials](#tutorials)
@@ -149,6 +150,11 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
 * [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
 * [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
+
+
+### Text-to-speech
+
+* [ChatGPT Auto-Talk](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 
 
 ### Translation
