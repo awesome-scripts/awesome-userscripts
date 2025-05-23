@@ -96,7 +96,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
 * [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
-* [GitHub Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [GitHub Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
 * [GitHub Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
