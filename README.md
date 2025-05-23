@@ -43,7 +43,7 @@ To use user scripts you need to first install a user script manager. Here are ma
   - Supports both GM 3 and GM 4 userscripts.
 - [**USI**](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - Firefox
   - Supports some GM 3 userscripts.
-- [**Violentmonkey**](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+- [**Violentmonkey**](https://violentmonkey.github.io/) - Edge, Firefox
   - Supports both GM 3 and GM 4 userscripts.
 
 The most popular userscript managers are Greasemonkey, Tampermonkey, and Violentmonkey.
