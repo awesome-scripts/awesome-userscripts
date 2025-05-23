@@ -95,7 +95,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
-* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs.
 * [GitHub font preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - Preview OTF, TTF and WOFF font files.
 * [GitHub image preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - Add an image preview mode.
 * [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
