@@ -96,7 +96,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
 * [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
-* [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
 * [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
 * [GitHub News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
 * [GitHub Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
