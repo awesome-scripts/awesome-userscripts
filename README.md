@@ -95,7 +95,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
-* [GitHub indent comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-indent-comments) - Use the tab key in comments.
 * [GitHub issue comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments) - Toggle the view of some issue comments and timeline entries.
 * [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - Show the number of issues in repository view.
 * [GitHub issue highlighter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - Highlight the linked issue.
