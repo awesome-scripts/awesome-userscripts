@@ -95,7 +95,6 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
-* [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 * [GitHub custom hotkeys](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - Add your own custom hotkeys to all of GitHub.
 * [GitHub custom navigation](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - Add a custom navigation bar to link anywhere.
 * [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site.
