@@ -153,6 +153,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Translation
 
+* [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
 
 
