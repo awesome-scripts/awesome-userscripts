@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "@eslint/markdown": "^6.4.0",
+    "@stylistic/eslint-plugin-js": "^4.4.0",
+    "eslint": "^9.27.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-yml": "^1.18.0"
+  },
+  "scripts": {
+    "lint": "eslint . --cache",
+    "lint:all": "eslint .",
+    "lint:fix": "eslint . --fix --cache",
+    "lint:fix-all": "eslint . --fix"
+  }
+}
