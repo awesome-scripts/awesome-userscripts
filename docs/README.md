@@ -607,7 +607,7 @@ Greasemonkey userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/brunocvcunha/awesome-userscripts/blob/master/CONTRIBUTING.md) for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/docs/CONTRIBUTING.md) for guidelines.
 
 
 ## License
