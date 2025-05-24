@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# Init UI colors
+NC="\033[0m"    # no color
+BR="\033[1;91m" # bright red
+BY="\033[1;33m" # bright yellow
+
+# Run ESLint
+echo -e "\n${BY}Running ESLint...${NC}"
+if npm ls -g eslint &> /dev/null || npm ls eslint &> /dev/null ; then
+    npm run lint
+else
+    PROJECT_ROOT=$(
+        cd "$(dirname "$0")/.." && # nav to root
+        [ "$OSTYPE" == "msys" ] && pwd -W || pwd # get absolute path
+    )
+    echo -e "\n${BR}Warning: ESLint not installed${NC}"
+    echo -e " To add missing dependencies, run 'npm install' from"
+    echo -e " $PROJECT_ROOT\n"
+fi
