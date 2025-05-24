@@ -487,7 +487,7 @@ Greasemonkey userscripts can be used w/ the following browsers:
 ### ChatGPT
 
 * [AmazonGPT](https://amazongpt.kudoai.com) - Adds AI assistance to Amazon shopping.
-* [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+* [Autoclear ChatGPT History](https://autoclearchatgpt.com) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
 * [BraveGPT](https://bravegpt.com) - Adds AI chat & search summaries to Brave, powered by the latest LLMs.
 * [ChatGPT Auto-Continue](https://chatgptautocontinue.com) - Automatically continue generating multiple ChatGPT responses.
 * [ChatGPT Auto Refresh](https://chatgptautorefresh.com) - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.
@@ -550,7 +550,7 @@ Greasemonkey userscripts can be used w/ the following browsers:
 
 ### Privacy
 
-* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chat.openai.com for maximum privacy.
+* [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 
 
