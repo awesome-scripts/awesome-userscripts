@@ -33,7 +33,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 ## Compatibility
 
-Userscripts can be used w/ the following browsers:
+Awesome Userscripts can be used w/ the following browsers:
 
 <details>
     <summary>Show compatibility table</summary><br>
