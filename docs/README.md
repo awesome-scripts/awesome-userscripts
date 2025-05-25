@@ -20,9 +20,9 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Media](#media)
   - [Passwords](#passwords)
   - [Privacy](#privacy)
-  - [Redirection](#redirection)
   - [Text-to-speech](#text-to-speech)
   - [Translation](#translation)
+  - [URLs](#urls)
   - [YouTube](#youtube)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -555,14 +555,6 @@ Userscripts can be used w/ the following browsers:
 * [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 
 
-### Redirection
-
-* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
-* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
-* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
-
-
 ### Text-to-speech
 
 * [ChatGPT Auto-Talk](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
@@ -572,6 +564,14 @@ Userscripts can be used w/ the following browsers:
 
 * [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
+
+
+### URLs
+
+* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
+* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
+* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
 ### YouTube
