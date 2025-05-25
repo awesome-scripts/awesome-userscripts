@@ -17,12 +17,12 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [GitHub](#github)
   - [Google](#google)
   - [Just Eat (UK only)](#just-eat-uk-only)
+  - [Links](#links)
   - [Media](#media)
   - [Passwords](#passwords)
   - [Privacy](#privacy)
   - [Text-to-speech](#text-to-speech)
   - [Translation](#translation)
-  - [URLs](#urls)
   - [YouTube](#youtube)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -536,6 +536,14 @@ Userscripts can be used w/ the following browsers:
 * [Just Eat Userscript](https://github.com/S4N-T0S/JustEat-userscript) - Adds dark mode and advanced filters to [Just Eat UK](https://www.just-eat.co.uk).
 
 
+### Links
+
+* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
+* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
+* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
+* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
+
+
 ### Media
 
 * [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
@@ -564,14 +572,6 @@ Userscripts can be used w/ the following browsers:
 
 * [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
-
-
-### URLs
-
-* [Direct links out](https://openuserjs.org/scripts/nokeya/Direct_links_out) - Removes all "You are leaving our site" and redirection stuff from links.
-* [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
-* [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
-* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
 ### YouTube
