@@ -1,8 +1,13 @@
-# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<div align="center">
 
-A curated list of Awesome Userscripts.
+<h1>Awesome Userscripts</h1>
+<a href="https://github.com/sindresorhus/awesome"><img height=23 alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a> <a href="http://makeapullrequest.com"><img height=23 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
+
+<h4>A curated list of Awesome Userscripts.</h4>
 
 Userscripts can improve your browsing experience, and open a lot of possibilities to make the sites you visit better by adding features, making them easier to use, or taking out the annoying bits.
+
+</div>
 
 
 # Contents
