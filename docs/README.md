@@ -1,4 +1,4 @@
-<div align="center">
+<div id="#top" align="center">
 
 <a href="#"><img width=333 height=auto src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@1ca33ae/assets/images/icons/awesome/shades/400x200.png"></a>
 <h1>Awesome Userscripts</h1>
@@ -625,4 +625,4 @@ To the extent possible under law, [Bruno Candido Volpato da Cunha](mailto:brunoc
 
 #
 
-[Back to top ↑](#awesome-userscripts--)
+[Back to top ↑](#)
