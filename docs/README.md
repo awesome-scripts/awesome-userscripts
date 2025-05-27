@@ -612,7 +612,7 @@ Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@8e22f63/assets/images/badges/zero-1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Bruno Candido Volpato da Cunha](mailto:brunocvcunha@gmail.com) has waived all copyright and related or neighboring rights to this work.
 
