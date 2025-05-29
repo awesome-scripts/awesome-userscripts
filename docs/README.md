@@ -464,7 +464,7 @@ Userscripts can be used w/ the following browsers:
 <h5>
     <i>1. If you are installing Tampermonkey or OrangeMonkey for a Chromium browser, you must enable Developer Mode in chrome://extensions for userscripts to function</i><br><br>
     <i>2. Violentmonkey & OrangeMonkey do not support Streaming Mode in AmazonGPT + BraveGPT + DuckDuckGPT + GoogleGPT</i><br><br>
-    <i>3. If you are installing a userscript manager for an Opera browser, you must allow it access to search page results in opera://extensions for search page userscripts to work</i>
+    <i>3. If you are installing a userscript manager for an Opera browser, you must allow it access to search page results in opera://extensions for search page userscripts to function</i>
 </h5>
 
 
