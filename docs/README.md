@@ -511,7 +511,6 @@ Userscripts can be used w/ the following browsers:
 
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
 * [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
-* [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 * [GitHub sort content](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - Sort lists and tables on GitHub.
 * [GitHub Star History](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 * [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice.
