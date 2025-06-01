@@ -606,12 +606,20 @@ Contributions are very welcome!
 
 Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/docs/CONTRIBUTING.md) for guidelines.
 
+## Top Contributors
+![Top Contributors widget](https://embeddables.devactivity.com/orgs/awesome-scripts/a53c359f-f5a4-4f42-8542-4d0c78d27fad.svg)
+
+<sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=awesome-scripts) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
+
 
 ## License
 
 [![CC0](http://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@8e22f63/assets/images/badges/zero-1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Bruno Candido Volpato da Cunha](mailto:brunocvcunha@gmail.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
+
+
+
 
 
 #
