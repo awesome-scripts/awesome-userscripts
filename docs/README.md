@@ -474,7 +474,6 @@ Userscripts can be used w/ the following browsers:
 ### Ad blockers
 
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
-* [AntiAdware](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 * [ChatGPT Widescreen](https://chatgptwidescreen.com) - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
 
