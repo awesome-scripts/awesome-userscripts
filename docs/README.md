@@ -15,7 +15,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 - [Compatibility](#compatibility)
 - [Scripts](#scripts)
-  - [Ads](#ads)
+  - [Ad blockers](#ad-blockers)
   - [Amazon](#amazon)
   - [Brave](#brave)
   - [ChatGPT](#chatgpt)
@@ -471,7 +471,7 @@ Userscripts can be used w/ the following browsers:
 ## Scripts
 
 
-### Ads
+### Ad blockers
 
 * [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 * [AntiAdware](https://github.com/handyuserscripts/antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
