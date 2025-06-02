@@ -983,7 +983,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/linkify-plus-plus/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/linkify-plus-plus/issues">
+        📢 <a href="https://github.com/eight04/linkify-plus-plus/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/linkify-plus-plus/issues">
             Report bug</a>
@@ -1001,7 +1001,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
+        📢 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/select-text-inside-a-link-like-opera/issues">
             Report bug</a>
@@ -1044,9 +1044,9 @@ Userscripts can be used w/ the following browsers:
             Install Dev Build</a> /
         📖 <a href="https://github.com/qsniyg/maxurl/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/qsniyg/maxurl/issues">
+        📢 <a href="https://github.com/qsniyg/maxurl/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/qsniyg/maxurl/discussions">
+        🐛 <a href="https://github.com/qsniyg/maxurl/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1062,9 +1062,9 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE%2B/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/hoothin/UserScripts/issues">
+        📢 <a href="https://github.com/hoothin/UserScripts/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/hoothin/UserScripts/discussions">
+        🐛 <a href="https://github.com/hoothin/UserScripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1080,7 +1080,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/show-and-reload-broken-images/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
+        📢 <a href="https://github.com/eight04/show-and-reload-broken-images/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
             Report bug</a>
@@ -1221,7 +1221,7 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://github.com/RobertWesner/YouTube-Play-All/raw/main/script.user.js">
             Install</a> /
-        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
+        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
             Report bug</a>
