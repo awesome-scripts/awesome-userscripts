@@ -567,7 +567,6 @@ Userscripts can be used w/ the following browsers:
 
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
 * [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
-* [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a YouTube link from almost any website.
 * [YouTube Play All](https://github.com/RobertWesner/YouTube-Play-All) - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.
 
 
