@@ -470,6 +470,9 @@ Userscripts can be used w/ the following browsers:
 
 ## Scripts
 
+> [!TIP]  
+> To show screenshots/links, click the ▸ or userscript descriptions.
+
 
 ### Ad blockers
 
