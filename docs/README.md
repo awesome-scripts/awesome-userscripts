@@ -727,7 +727,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
         <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=6a5a2b9"></a>
+            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=dfd722e"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.ddgpt.com">
@@ -766,7 +766,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
         <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=6a5a2b9"></a>
+            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png?v=dfd722e"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.ddgpt.com">
@@ -1269,7 +1269,20 @@ Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-
 To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
 
 
+## ⭐ Star History
 
+<div align="center">
+
+<a href="https://github.com/awesome-scripts/awesome-userscripts/stargazers">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=awesome-scripts/awesome-userscripts&type=Timeline&theme=dark" />
+        <img width=665 src="https://api.star-history.com/svg?repos=awesome-scripts/awesome-userscripts&type=Timeline" />
+    </picture>
+</a>
+
+<br>
+
+</div>
 
 
 #
