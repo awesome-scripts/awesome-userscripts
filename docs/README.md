@@ -958,13 +958,13 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/S4N-T0S/JustEat-userscript@7905e8b/example.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/LostInBrittany/share-google-slides-control/raw/refs/heads/main/userscript/shared-google-slides-control.user.js">
+        💾 <a href="https://github.com/S4N-T0S/JustEat-userscript/raw/refs/heads/main/JustEat.user.js">
             Install</a> /
-        📖 <a href="https://github.com/LostInBrittany/share-google-slides-control/#readme">
+        📖 <a href="https://github.com/S4N-T0S/JustEat-userscript/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/LostInBrittany/share-google-slides-control/discussions">
+        📢 <a href="https://github.com/S4N-T0S/JustEat-userscript/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/LostInBrittany/share-google-slides-control/issues">
+        🐛 <a href="https://github.com/S4N-T0S/JustEat-userscript/issues">
             Report bug</a>
     </blockquote>
 </details>
