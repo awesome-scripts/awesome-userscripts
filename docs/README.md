@@ -10,6 +10,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 </div>
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/rainbow-blue-to-red.png">
 
 # Contents
 
@@ -36,6 +37,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 - [Contributing](#contributing)
 - [License](#license)
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## Compatibility
 
@@ -467,12 +469,12 @@ Userscripts can be used w/ the following browsers:
     <i>3. If you are installing a userscript manager for an Opera browser, you must allow it access to search page results in opera://extensions for search page userscripts to function</i>
 </h5>
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## Scripts
 
 > [!TIP]  
 > To show screenshots/links, click the ▸ or userscript descriptions.
-
 
 ### Ad blockers
 
@@ -1228,6 +1230,7 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## Tutorials
 
@@ -1235,6 +1238,7 @@ Userscripts can be used w/ the following browsers:
   - [Greasemonkey Tutorial for Beginners](http://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
   - [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## Additional Catalogues
 
@@ -1242,6 +1246,7 @@ Userscripts can be used w/ the following browsers:
 * [Greasy Fork](https://greasyfork.org/)
 * [OpenUserJS](https://openuserjs.org/)
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## Community
 
@@ -1249,6 +1254,7 @@ Userscripts can be used w/ the following browsers:
 * [`#greasemonkey` on Freenode](http://webchat.freenode.net/?channels=greasemonkey)
 * [`r/userscripts` on Reddit](https://www.reddit.com/r/userscripts/)
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## Contributing
 
@@ -1256,11 +1262,14 @@ Contributions are very welcome!
 
 Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/docs/CONTRIBUTING.md) for guidelines.
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
+
 ## Top Contributors
 ![Top Contributors widget](https://embeddables.devactivity.com/orgs/awesome-scripts/a53c359f-f5a4-4f42-8542-4d0c78d27fad.svg)
 
 <sup><sub>Check also our [Public Dashboard](https://app.devactivity.com/public/?organizationLogin=awesome-scripts) powered by [devActivity](https://devactivity.com/?ref=public_widget)</sub></sup>
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## License
 
@@ -1268,6 +1277,7 @@ Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-
 
 To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
 
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
 ## ⭐ Star History
 
@@ -1284,7 +1294,6 @@ To the extent possible under law, contributors have waived all copyright and rel
 
 </div>
 
-
-#
+<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/rainbow-blue-to-red.png">
 
 [Back to top ↑](#top)
