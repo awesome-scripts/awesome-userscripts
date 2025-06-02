@@ -477,7 +477,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://adsbypasser.github.io">AdsBypasser</a> - Bypass Ads, Popups and count-down ads.</summary><br>
     <blockquote>
         <a href="https://adsbypasser.github.io">
-            <img width=511 src="https://github.com/user-attachments/assets/33ea4888-6aff-49ac-a344-2d4735e0c959"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/adsbypasser.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js">
@@ -802,7 +802,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://greasyfork.org/scripts/22194">GitHub Make Tooltips</a> - Convert all titles into GitHub tooltips.</summary><br>
     <blockquote>
         <a href="https://greasyfork.org/scripts/22194">
-            <img width=511 src="https://github.com/user-attachments/assets/286ed01b-36b5-46e3-8905-cf9c118ee381"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/make-tooltips.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/22194/GitHub%20Make%20Tooltips.user.js">
@@ -856,7 +856,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time">GitHub static time</a> - Convert time ago into a time format of your choice.</summary><br>
     <blockquote>
         <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time">
-            <img width=600 src="https://cloud.githubusercontent.com/assets/136959/25360578/5a2a6626-290f-11e7-8743-2e8f2578f1f4.gif"></a>
+            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/github-static-time.gif"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-static-time.user.js">
@@ -874,7 +874,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar">GitHub toggle wiki sidebar</a> - Toggle wiki sidebar view.</summary><br>
     <blockquote>
         <a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar">
-            <img width=600 src="https://cloud.githubusercontent.com/assets/136959/14222878/18ebf256-f83c-11e5-828d-dc5a3103921b.gif"></a>
+            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/github-toggle-wiki-sidebar.gif"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-toggle-wiki-sidebar.user.js">
@@ -895,7 +895,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
     <blockquote>
         <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
-            <img width=600 src="https://github.com/user-attachments/assets/ccf45d78-5655-4da6-94d9-b44cc46f8126"></a>
+            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/endless-google.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://openuserjs.org/install/tumpio/Endless_Google.user.js">
@@ -931,7 +931,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/LostInBrittany/share-google-slides-control">Share Google Slides controls</a> - Remotely share the control of a Google Slides presentation.</summary><br>
     <blockquote>
         <a href="https://github.com/LostInBrittany/share-google-slides-control">
-            <img width=511 src="https://github.com/user-attachments/assets/49a53dc4-ded5-44e5-bfd3-003ae907c78c"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/share-google-slides-controls.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://github.com/LostInBrittany/share-google-slides-control/raw/refs/heads/main/userscript/shared-google-slides-control.user.js">
@@ -973,7 +973,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/eight04/linkify-plus-plus">Linkify Plus Plus</a> - Turn plain text URLs into links.</summary><br>
     <blockquote>
         <a href="https://github.com/eight04/linkify-plus-plus">
-            <img width=511 src="https://github.com/user-attachments/assets/1b985d1d-8af1-44e0-9146-866396dd6204"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/linkify-plus-plus.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/4255/Linkify%20Plus%20Plus.user.js">
@@ -991,7 +991,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/eight04/select-text-inside-a-link-like-opera">Select text inside a link like Opera</a> - Disable link dragging and select text.</summary><br>
     <blockquote>
         <a href="https://github.com/eight04/select-text-inside-a-link-like-opera">
-            <img width=511 src="https://github.com/user-attachments/assets/5b8d0e0d-60e4-48b4-a4b5-6228b770d485"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/select-text-inside-a-link-like-opera.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/789/Select%20text%20inside%20a%20link%20like%20Opera.user.js">
@@ -1052,7 +1052,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://greasyfork.org/scripts/24204-picviewer-ce">Picviewer CE+</a> - Powerful picture viewing tool which can popup/scale/rotate/batch save pictures automatically.</summary><br>
     <blockquote>
         <a href="https://greasyfork.org/scripts/24204-picviewer-ce">
-            <img width=511 src="https://v2fy.com/asset/063_picviewer_ce/72723103-d911ce00-3bba-11ea-9541-0be746977dbc.gif"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/picviewer-ce+.gif"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/24204/Picviewer%20CE%2B.user.js">
@@ -1091,7 +1091,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://greasyfork.org/scripts/32-show-password-onmouseover">Show Password onMouseOver</a> - Show password when mouseover on password field.</summary><br>
     <blockquote>
         <a href="https://greasyfork.org/scripts/32-show-password-onmouseover">
-            <img width=311 src="https://s7.ezgif.com/tmp/ezgif-76d0f2d5064b18.gif"></a>
+            <img width=311 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/show-password-onmouseover.gif"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/32/Show%20Password%20onMouseOver.user.js">
@@ -1154,7 +1154,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://immersivetranslate.com/">Immersive Translate</a> - Translates text on any page.</summary><br>
     <blockquote>
         <a href="https://immersivetranslate.com/">
-            <img width=511 src="https://github.com/user-attachments/assets/f966bddc-fc18-4ae4-8422-c2e0fb43cc8b"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/immersive-translate.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.chatgptautotalk.com">
@@ -1193,7 +1193,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">YouTube Commenter Names</a> - Make YouTube display the names of commenters instead of their handles.</summary><br>
     <blockquote>
         <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">
-            <img width=511 src="https://github.com/user-attachments/assets/b07f73b8-7055-467b-89e3-d703189cf7cb"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/youtube-commenter-names.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d/raw/0afe05e43cf196de7f95a735a8251a012b399214/youtube-commenter-names.user.js">
@@ -1205,7 +1205,25 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-* [YouTube Play All](https://github.com/RobertWesner/YouTube-Play-All) - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.
+<details> <!-- YouTube Play All -->
+    <summary><a href="https://github.com/RobertWesner/YouTube-Play-All">YouTube Play All</a> - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.</summary><br>
+    <blockquote>
+        <a href="https://github.com/RobertWesner/YouTube-Play-All">
+            <picture>
+                <source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RobertWesner/YouTube-Play-All@213bbb8/readme/screenshot_dark.png">
+                <img width=511 src="https://cdn.jsdelivr.net/gh/RobertWesner/YouTube-Play-All@213bbb8/readme/screenshot.png">
+            </picture>
+        </a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/RobertWesner/YouTube-Play-All/raw/main/script.user.js">
+            Install</a> /
+        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 
 ## Tutorials
