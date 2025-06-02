@@ -520,7 +520,6 @@ Userscripts can be used w/ the following browsers:
 ### Google
 
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
-* [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
 * [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
 * [Reddit Search On Google](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
