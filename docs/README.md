@@ -805,7 +805,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://greasyfork.org/scripts/22194">GitHub Make Tooltips</a> - Convert all titles into GitHub tooltips.</summary><br>
     <blockquote>
         <a href="https://greasyfork.org/scripts/22194">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/make-tooltips.png"></a>
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/github-make-tooltips.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/22194/GitHub%20Make%20Tooltips.user.js">
