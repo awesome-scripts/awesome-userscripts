@@ -521,7 +521,6 @@ Userscripts can be used w/ the following browsers:
 
 * [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 * [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
-* [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Share Google Slides Control](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
 
 
@@ -554,7 +553,6 @@ Userscripts can be used w/ the following browsers:
 ### Privacy
 
 * [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history/tree/main/greasemonkey) - Auto-clears chat history when visiting chatgpt.com for maximum privacy.
-* [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 
 
 ### Text-to-speech
