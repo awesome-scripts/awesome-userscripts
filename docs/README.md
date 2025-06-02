@@ -1024,9 +1024,9 @@ Userscripts can be used w/ the following browsers:
             Install Dev Build</a> /
         📖 <a href="https://github.com/qsniyg/maxurl/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/qsniyg/maxurl/issues">
+        📢 <a href="https://github.com/qsniyg/maxurl/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/qsniyg/maxurl/discussions">
+        🐛 <a href="https://github.com/qsniyg/maxurl/issues">
             Report bug</a>
     </blockquote>
 </details>
