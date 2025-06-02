@@ -533,7 +533,6 @@ Userscripts can be used w/ the following browsers:
 
 * [Linkify Plus Plus](https://greasyfork.org/scripts/4255-linkify-plus-plus) - Turn plain text URLs into links.
 * [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
-* [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
 ### Media
