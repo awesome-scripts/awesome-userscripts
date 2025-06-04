@@ -7,7 +7,7 @@
 <!-- Shields -->
 
 <a href="https://github.com/sindresorhus/awesome">
-    <img height=23 alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+    <img height=23 alt="Awesome" src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 <a href="http://makeapullrequest.com">
     <img height=23 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
 
