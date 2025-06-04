@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome">
     <img height=23 alt="Awesome" src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
-<a href="http://makeapullrequest.com">
+<a href="https://github.com/awesome-scripts/awesome-userscripts/pulls">
     <img height=23 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=github&logoColor=white"></a>
 <a href="https://www.jsdelivr.com/package/gh/awesome-scripts/awesome-userscripts">
     <img height=23 alt="jsDelivr stats" src="https://img.shields.io/jsdelivr/gh/hm/awesome-scripts/awesome-userscripts?logo=jsdelivr&logoColor=white&label=jsDelivr+requests&color=7bb7fc"></a>
