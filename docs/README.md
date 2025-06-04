@@ -1040,13 +1040,13 @@ Userscripts can be used w/ the following browsers:
             <img width=311 src="https://i.imgur.com/A7hplWg.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://greasyfork.org/scripts/394820">
+        💾 <a href="https://update.greasyfork.org/scripts/394820/Mouseover%20Popup%20Image%20Viewer.user.js">
             Install</a> /
-        📖 <a href="https://github.com/qsniyg/maxurl/#readme">
+        📖 <a href="https://github.com/tophf/mpiv/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/qsniyg/maxurl/discussions">
+        📢 <a href="https://github.com/tophf/mpiv/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/qsniyg/maxurl/issues">
+        🐛 <a href="https://github.com/tophf/mpiv/issues">
             Report bug</a>
     </blockquote>
 </details>
