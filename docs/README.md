@@ -23,7 +23,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [DuckDuckGo](#duckduckgo)
   - [GitHub](#github)
   - [Google](#google)
-  - [Just Eat (UK only)](#just-eat-uk-only)
+  - [Just Eat (UK)](#just-eat-uk)
   - [Links](#links)
   - [Media](#media)
   - [Passwords](#passwords)
@@ -951,7 +951,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Just Eat (UK only)
+### Just Eat (UK)
 
 <details> <!-- Just Eat Userscript -->
     <summary><a href="https://github.com/S4N-T0S/JustEat-userscript">Just Eat Userscript</a> - Adds dark mode and advanced filters to Just Eat UK.</summary><br>
