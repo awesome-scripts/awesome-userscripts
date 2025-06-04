@@ -10,6 +10,8 @@
     <img height=23 alt="Awesome" src="https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
 <a href="http://makeapullrequest.com">
     <img height=23 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></a>
+<a href="https://www.jsdelivr.com/package/gh/awesome-scripts/awesome-userscripts">
+    <img height=23 alt="jsDelivr stats" src="https://img.shields.io/jsdelivr/gh/hm/awesome-scripts/awesome-userscripts?icon=jsdelivr&label=jsDelivr+requests&color=7bb7fc"></a>
 
 <h3>A curated list of Awesome Userscripts.</h3>
 
