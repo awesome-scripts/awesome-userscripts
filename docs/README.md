@@ -1040,10 +1040,8 @@ Userscripts can be used w/ the following browsers:
             <img width=311 src="https://i.imgur.com/A7hplWg.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript_smaller.user.js?raw=true">
-            Install Stable Build</a> /
-        💾 <a href="https://github.com/qsniyg/maxurl/blob/master/userscript.user.js?raw=true">
-            Install Dev Build</a> /
+        💾 <a href="https://greasyfork.org/scripts/394820">
+            Install</a> /
         📖 <a href="https://github.com/qsniyg/maxurl/#readme">
             Readme</a> /
         📢 <a href="https://github.com/qsniyg/maxurl/discussions">
