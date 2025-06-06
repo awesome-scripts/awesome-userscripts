@@ -35,7 +35,9 @@ export default [
             ...markdown.configs.recommended[0].rules,
             'markdown/heading-increment': 'off', // allow headings to skip levels
             'markdown/fenced-code-language': 'off', // allow code blocks w/ no language specified
-            'markdown/no-missing-label-refs': 'off' // allow missing label references
+            'markdown/no-missing-label-refs': 'off', // allow missing label references
+            'markdown/no-multiple-h1': 'off', // allow multi H1s
+            'markdown/require-alt-text': 'off' // allow missing img alts
         }
     },
     { files: ['**/*.mjs'], languageOptions: { sourceType: 'module' }},
