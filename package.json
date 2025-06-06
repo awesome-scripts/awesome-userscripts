@@ -7,7 +7,7 @@
     "lint:fix-all": "eslint . --fix"
   },
   "devDependencies": {
-    "@eslint/markdown": "^6.4.0",
+    "@eslint/markdown": "^6.5.0",
     "@stylistic/eslint-plugin": "^4.4.1",
     "eslint": "^9.28.0",
     "eslint-plugin-import": "^2.31.0",
