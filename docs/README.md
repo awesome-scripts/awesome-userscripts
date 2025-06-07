@@ -29,6 +29,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Amazon](#amazon)
   - [Brave](#brave)
   - [ChatGPT](#chatgpt)
+  - [Discord](#discord)
   - [DuckDuckGo](#duckduckgo)
   - [GitHub](#github)
   - [Google](#google)
@@ -767,6 +768,27 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+
+### Discord
+
+<details> <!-- Undiscord -->
+    <summary><a href="https://victornpb.github.io/undiscord/">Undiscord</a> - Delete all messages in a Discord channel or DM.</summary><br>
+    <blockquote>
+        <a href="https://victornpb.github.io/undiscord/">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@14311cb/assets/images/screenshots/scripts/undiscord.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/406540/Undiscord.user.js">
+            Install</a> /
+        📖 <a href="https://victornpb.github.io/undiscord/">
+            Readme</a> /
+        📢 <a href="https://github.com/victornpb/undiscord/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/victornpb/undiscord/issues">
             Report bug</a>
     </blockquote>
 </details>
