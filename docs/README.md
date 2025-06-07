@@ -1364,6 +1364,8 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://github.com/RobertWesner/YouTube-Play-All/raw/main/script.user.js">
             Install</a> /
+        📖 <a href="https://github.com/RobertWesner/YouTube-Play-All/#readme">
+            Readme</a> /
         📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
