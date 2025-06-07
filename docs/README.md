@@ -1156,7 +1156,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
+### <img height=13 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
 
 <details> <!-- Pagetual -->
     <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
