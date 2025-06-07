@@ -1180,6 +1180,24 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Undiscord -->
+    <summary><a href="https://victornpb.github.io/undiscord/">Undiscord</a> - Delete all messages in a Discord channel or DM.</summary><br>
+    <blockquote>
+        <a href="https://victornpb.github.io/undiscord/">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@14311cb/assets/images/screenshots/scripts/undiscord.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/406540/Undiscord.user.js">
+            Install</a> /
+        📖 <a href="https://victornpb.github.io/undiscord/">
+            Readme</a> /
+        📢 <a href="https://github.com/victornpb/undiscord/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/victornpb/undiscord/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 
 ### Text-to-speech
 
