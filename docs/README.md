@@ -1123,7 +1123,7 @@ Userscripts can be used w/ the following browsers:
 ### Navigation
 
 <details> <!-- Pagetual -->
-    <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Seamless infinite scrolling for paginated sites.</summary><br>
+    <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
     <blockquote>
         <a href="https://pagetual.hoothin.com">
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@04d117d/assets/images/screenshots/scripts/pagetual.png"></a>
