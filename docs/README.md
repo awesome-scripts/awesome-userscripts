@@ -487,7 +487,7 @@ Userscripts can be used w/ the following browsers:
 > [!TIP]  
 > To show screenshots/links, click the ▸ or userscript descriptions.
 
-### Ad blockers
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/adblock/icon32.png"> Ad blockers
 
 <details> <!-- AdsBypasser -->
     <summary><a href="https://adsbypasser.github.io">AdsBypasser</a> - Bypass Ads, Popups and count-down ads.</summary><br>
@@ -546,7 +546,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Amazon
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/amazon/icon32.ico"> Amazon
 
 <details> <!-- AmazonGPT -->
     <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
@@ -567,7 +567,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Brave
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/brave/icon32.png"> Brave
 
 <details> <!-- BraveGPT -->
     <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
@@ -588,7 +588,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### ChatGPT
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/chatgpt/white-on-black/icon50.png"><img height=21 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/chatgpt/black-on-white/icon50.png"></picture> ChatGPT
 
 <details> <!-- AmazonGPT -->
     <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
@@ -773,7 +773,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Discord
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/discord/icon256.ico"> Discord
 
 <details> <!-- Undiscord -->
     <summary><a href="https://victornpb.github.io/undiscord/">Undiscord</a> - Delete all messages in a Discord channel or DM.</summary><br>
@@ -794,7 +794,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### DuckDuckGo
+### <img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/duckduckgo/icon32.png"> DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
     <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
@@ -815,7 +815,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### GitHub
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/github/icon32.png"> GitHub
 
 <details> <!-- GitHub Commit Labels -->
     <summary><a href="https://github.com/nazdridoy/github-commit-labels">GitHub Commit Labels</a> - Add beautiful labels to conventional commits on GitHub.</summary><br>
@@ -926,7 +926,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Google
+### <img height=20 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/google/icon32.png"> Google
 
 <details> <!-- Don't track me Google -->
     <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
@@ -1001,7 +1001,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Just Eat (UK)
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/just-eat/icon32.ico"> Just Eat (UK)
 
 <details> <!-- Just Eat Userscript -->
     <summary><a href="https://github.com/S4N-T0S/JustEat-userscript">Just Eat Userscript</a> - Adds dark mode and advanced filters to Just Eat UK.</summary><br>
@@ -1022,7 +1022,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Links
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/link/icon32.png"> Links
 
 <details> <!-- Don't track me Google -->
     <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
@@ -1079,7 +1079,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Media
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/play/icon32.png"> Media
 
 <details> <!-- Image Max URL -->
     <summary><a href="https://github.com/qsniyg/maxurl">Image Max URL</a> - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.</summary><br>
@@ -1156,7 +1156,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Navigation
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
 
 <details> <!-- Pagetual -->
     <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
@@ -1177,7 +1177,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Passwords
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/password/icon32.png"> Passwords
 
 <details> <!-- Show Password onMouseOver -->
     <summary><a href="https://greasyfork.org/scripts/32-show-password-onmouseover">Show Password onMouseOver</a> - Show password when mouseover on password field.</summary><br>
@@ -1196,7 +1196,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Privacy
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/chatgpt/white-on-black/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/incognito/black/icon32.png"></picture> Privacy
 
 <details> <!-- Autoclear ChatGPT History -->
     <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
@@ -1253,7 +1253,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Text-to-speech
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/soundwaves/icon32.png"> Text-to-speech
 
 <details> <!-- ChatGPT Auto-Talk -->
     <summary><a href="https://www.chatgptautotalk.com">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
@@ -1276,7 +1276,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### Translation
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/translate/icon32.png"> Translation
 
 <details> <!-- Immersive Translate -->
     <summary><a href="https://immersivetranslate.com/">Immersive Translate</a> - Translates text on any page.</summary><br>
@@ -1297,7 +1297,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### YouTube
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/youtube/icon32.png"> YouTube
 
 <details> <!-- YouTube Classic -->
     <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
