@@ -487,7 +487,7 @@ Userscripts can be used w/ the following browsers:
 > [!TIP]  
 > To show screenshots/links, click the ▸ or userscript descriptions.
 
-### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/adblock/icon32.png"> Ad blockers
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@ac1be43/assets/images/icons/cancel/white/icon32.png"><img height=15 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@ac1be43/assets/images/icons/cancel/black/icon32.png"></picture> Ad blockers
 
 <details> <!-- AdsBypasser -->
     <summary><a href="https://adsbypasser.github.io">AdsBypasser</a> - Bypass Ads, Popups and count-down ads.</summary><br>
