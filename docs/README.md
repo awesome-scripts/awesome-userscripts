@@ -42,11 +42,11 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Text-to-speech](#-text-to-speech)
   - [Translation](#-translation)
   - [YouTube](#-youtube)
-- [Tutorials](#-tutorials)
-- [Community](#-community)
-- [Additional Catalogues](#-additional-catalogues)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Tutorials](#tutorials)
+- [Community](#community)
+- [Additional Catalogues](#additional-catalogues)
+- [Contributing](#contributing)
+- [License](#license)
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
