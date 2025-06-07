@@ -35,6 +35,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Just Eat (UK)](#just-eat-uk)
   - [Links](#links)
   - [Media](#media)
+  - [Navigation](#navigation)
   - [Passwords](#passwords)
   - [Privacy](#privacy)
   - [Text-to-speech](#text-to-speech)
@@ -1092,6 +1093,27 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/eight04/show-and-reload-broken-images/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/show-and-reload-broken-images/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+
+### Navigation
+
+<details> <!-- Pagetual -->
+    <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Seamless infinite scrolling for paginated sites.</summary><br>
+    <blockquote>
+        <a href="https://pagetual.hoothin.com">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@04d117d/assets/images/screenshots/scripts/pagetual.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/438684/Pagetual.user.js">
+            Install</a> /
+        📖 <a href="https://pagetual.hoothin.com/infinite-scrolling-auto-page.html">
+            Readme</a> /
+        📢 <a href="https://github.com/hoothin/UserScripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/hoothin/UserScripts/issues">
             Report bug</a>
     </blockquote>
 </details>
