@@ -1156,7 +1156,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
+### <img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
 
 <details> <!-- Pagetual -->
     <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
@@ -1177,7 +1177,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/password/icon32.png"> Passwords
+### <img height=15 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/password/icon32.png"> Passwords
 
 <details> <!-- Show Password onMouseOver -->
     <summary><a href="https://greasyfork.org/scripts/32-show-password-onmouseover">Show Password onMouseOver</a> - Show password when mouseover on password field.</summary><br>
@@ -1253,7 +1253,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/soundwaves/icon32.png"> Text-to-speech
+### <img height=17 width=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/soundwaves/icon32.png"> Text-to-speech
 
 <details> <!-- ChatGPT Auto-Talk -->
     <summary><a href="https://www.chatgptautotalk.com">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
@@ -1276,7 +1276,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/translate/icon32.png"> Translation
+### <img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/translate/icon32.png"> Translation
 
 <details> <!-- Immersive Translate -->
     <summary><a href="https://immersivetranslate.com/">Immersive Translate</a> - Translates text on any page.</summary><br>
