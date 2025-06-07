@@ -928,6 +928,24 @@ Userscripts can be used w/ the following browsers:
 
 ### Google
 
+<details> <!-- Don't track me Google -->
+    <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Rob--W/dont-track-me-google">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/Rob--W/dont-track-me-google@a73ab8b/screenshot.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/428243/Don%27t%20track%20me%20Google.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Rob--W/dont-track-me-google/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- Endless Google -->
     <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
     <blockquote>
@@ -1005,6 +1023,24 @@ Userscripts can be used w/ the following browsers:
 
 
 ### Links
+
+<details> <!-- Don't track me Google -->
+    <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Rob--W/dont-track-me-google">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/Rob--W/dont-track-me-google@a73ab8b/screenshot.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/428243/Don%27t%20track%20me%20Google.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Rob--W/dont-track-me-google/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- Linkify Plus Plus -->
     <summary><a href="https://github.com/eight04/linkify-plus-plus">Linkify Plus Plus</a> - Turn plain text URLs into links.</summary><br>
@@ -1176,6 +1212,24 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/adamlui/autoclear-chatgpt-history/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/autoclear-chatgpt-history/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Don't track me Google -->
+    <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Rob--W/dont-track-me-google">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/Rob--W/dont-track-me-google@a73ab8b/screenshot.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/428243/Don%27t%20track%20me%20Google.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Rob--W/dont-track-me-google/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/Rob--W/dont-track-me-google/issues">
             Report bug</a>
     </blockquote>
 </details>
