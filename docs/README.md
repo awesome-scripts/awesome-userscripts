@@ -1158,6 +1158,24 @@ Userscripts can be used w/ the following browsers:
 
 ### <img height=13 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/nav/icon32.png"> Navigation
 
+<details> <!-- Endless Google -->
+    <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
+    <blockquote>
+        <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
+            <img width=600 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/endless-google.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://openuserjs.org/install/tumpio/Endless_Google.user.js">
+            Install</a> /
+        📖 <a href="https://openuserjs.org/scripts/tumpio/Endless_Google">
+            Readme</a> /
+        📢 <a href="https://github.com/tumpio/gmscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/tumpio/gmscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- Pagetual -->
     <summary><a href="https://pagetual.hoothin.com">Pagetual</a> - Add seamless infinite scrolling to thousands of sites.</summary><br>
     <blockquote>
