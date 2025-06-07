@@ -1253,7 +1253,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <img height=17 width=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/soundwaves/icon32.png"> Text-to-speech
+### <img height=18 width=21 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@3288797/assets/images/icons/soundwaves/icon32.png"> Text-to-speech
 
 <details> <!-- ChatGPT Auto-Talk -->
     <summary><a href="https://www.chatgptautotalk.com">ChatGPT Auto-Talk</a> - Automatically play ChatGPT responses.</summary><br>
