@@ -1,6 +1,11 @@
 <div id="top" align="center">
 
-<a href="#"><img width=333 height=auto src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@1ca33ae/assets/images/icons/awesome/shades/400x200.png"></a>
+<a href="#">
+    <picture>
+        <source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/awesome/shades/white/400x200.png">
+        <img width=333 height=auto src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/awesome/shades/400x200.png">
+    </picture>
+</a>
 
 <h1>Awesome Userscripts</h1>
 
