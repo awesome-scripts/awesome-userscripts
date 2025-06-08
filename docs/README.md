@@ -1159,7 +1159,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/white/icon32.png"><img height=13 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/black/icon32.png"></picture> Navigation
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/white/icon32.png"><img height=12 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/nav/black/icon32.png"></picture> Navigation
 
 <details> <!-- Endless Google -->
     <summary><a href="https://openuserjs.org/scripts/tumpio/Endless_Google">Endless Google</a> - Load more results automatically and endlessly.</summary><br>
