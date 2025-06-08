@@ -549,7 +549,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/black/icon32.png"></picture> Amazon
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/icon32.png"></picture> Amazon
 
 <details> <!-- AmazonGPT -->
     <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
@@ -570,7 +570,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/white/icon32.png"><img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/black/icon32.png"></picture> Brave
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/white/icon32.png"><img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/icon32.png"></picture> Brave
 
 <details> <!-- BraveGPT -->
     <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
@@ -776,7 +776,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/white/icon256.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/black/icon256.png"></picture> Discord
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/white/icon256.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/discord/icon256.png"></picture> Discord
 
 <details> <!-- Undiscord -->
     <summary><a href="https://victornpb.github.io/undiscord/">Undiscord</a> - Delete all messages in a Discord channel or DM.</summary><br>
@@ -797,7 +797,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/black/icon32.png"></picture> DuckDuckGo
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/icon32.png"></picture> DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
     <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
@@ -929,7 +929,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/white/icon32.png"><img height=20 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/black/icon32.png"></picture> Google
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/white/icon32.png"><img height=20 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/icon32.png"></picture> Google
 
 <details> <!-- Don't track me Google -->
     <summary><a href="https://github.com/Rob--W/dont-track-me-google">Don't track me Google</a> - Removes link conversion in Google Search/Maps links.</summary><br>
@@ -1004,7 +1004,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/black/icon32.png"></picture> Just Eat (UK)
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/just-eat/icon32.png"></picture> Just Eat (UK)
 
 <details> <!-- Just Eat Userscript -->
     <summary><a href="https://github.com/S4N-T0S/JustEat-userscript">Just Eat Userscript</a> - Adds dark mode and advanced filters to Just Eat UK.</summary><br>
@@ -1318,7 +1318,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/black/icon32.png"></picture> YouTube
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
 
 <details> <!-- YouTube Classic -->
     <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
