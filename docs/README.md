@@ -14,7 +14,7 @@
 <a href="https://github.com/sindresorhus/awesome">
     <img height=31 alt="Awesome" src="https://img.shields.io/badge/Awesome-fc60a9.svg?logo=awesomelists&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="#license">
-    <img height=31 alt="Awesome" src="https://img.shields.io/badge/License-CC_1.0-orange.svg?logo=internetarchive&logoColor=white&labelColor=464646&style=for-the-badge"></a>
+    <img height=31 alt="Awesome" src="https://img.shields.io/badge/License-CC0_1.0-orange.svg?logo=internetarchive&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="https://github.com/awesome-scripts/awesome-userscripts/blob/master/docs/CONTRIBUTING.md">
     <img height=31 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=github&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="https://www.jsdelivr.com/package/gh/awesome-scripts/awesome-userscripts">
