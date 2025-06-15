@@ -31,6 +31,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Brave](#-brave)
   - [ChatGPT](#-chatgpt)
   - [Discord](#-discord)
+  - [Display](#-display)
   - [DuckDuckGo](#-duckduckgo)
   - [GitHub](#-github)
   - [Google](#-google)
@@ -790,6 +791,27 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/victornpb/undiscord/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/victornpb/undiscord/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@438649d/assets/images/icons/symbols/display/white/icon256.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@438649d/assets/images/icons/symbols/display/black/icon256.png"></picture> Display
+
+<details> <!-- Night Mode -->
+    <summary><a href="https://greasyfork.org/scripts/424595-night-mode">Night Mode</a> - Adds a transparent dark layer depending on the time of the day to any website to make it less bright.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/424595-night-mode">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@438649d/assets/images/screenshots/scripts/night-mode.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/424595/Night%20Mode.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/424595-night-mode">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/scripts/424595-night-mode/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/scripts/424595-night-mode/feedback">
             Report bug</a>
     </blockquote>
 </details>
