@@ -1104,6 +1104,26 @@ Userscripts can be used w/ the following browsers:
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/play/black/icon32.png"></picture> Media
 
+<details> <!-- Double-click Image Downloader -->
+    <summary><a href="https://greasyfork.org/scripts/469594-double-click-image-downloader">Double-click Image Downloader</a> - Double-click images to download them.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/469594-double-click-image-downloader">
+            <img width=115 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@7ab5796/assets/images/screenshots/scripts/double-click-image-downloader/double-click-img.gif"></a>
+        <a href="https://greasyfork.org/scripts/469594-double-click-image-downloader">
+            <img width=313 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@7ab5796/assets/images/screenshots/scripts/double-click-image-downloader/download-notif.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/469594/Double-click%20Image%20Downloader.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/469594-double-click-image-downloader">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/scripts/469594-double-click-image-downloader/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/scripts/469594-double-click-image-downloader/feedback">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- Image Max URL -->
     <summary><a href="https://github.com/qsniyg/maxurl">Image Max URL</a> - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.</summary><br>
     <blockquote>
