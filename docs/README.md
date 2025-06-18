@@ -614,7 +614,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
         <a href="https://www.autoclearchatgpt.com">
-            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=d6e2060"></a>
+            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=69b726a"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.autoclearchatgpt.com">
