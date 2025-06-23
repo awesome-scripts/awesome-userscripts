@@ -37,7 +37,8 @@ export default [
             'markdown/fenced-code-language': 'off', // allow code blocks w/ no language specified
             'markdown/no-missing-label-refs': 'off', // allow missing label references
             'markdown/no-multiple-h1': 'off', // allow multi H1s
-            'markdown/require-alt-text': 'off' // allow missing img alts
+            'markdown/require-alt-text': 'off', // allow missing img alts
+            'markdown/no-missing-link-fragments': 'off' // until https://github.com/eslint/markdown/issues/439 fixed
         }
     },
     { files: ['**/*.mjs'], languageOptions: { sourceType: 'module' }},
