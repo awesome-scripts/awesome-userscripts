@@ -652,7 +652,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
         <a href="https://www.autoclearchatgpt.com">
-            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=a5284cb"></a>
+            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=4f5c5fa"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.autoclearchatgpt.com">
@@ -1301,7 +1301,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://www.autoclearchatgpt.com">Autoclear ChatGPT History</a> - Auto-clears chat history when visiting chatgpt.com for maximum privacy.</summary><br>
     <blockquote>
         <a href="https://www.autoclearchatgpt.com">
-            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=a5284cb"></a>
+            <img width=511 src="https://assets.autoclearchatgpt.com/images/screenshots/demo.png?v=4f5c5fa"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://gm.autoclearchatgpt.com">
