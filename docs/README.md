@@ -491,6 +491,26 @@ Userscripts can be used w/ the following browsers:
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/white/icon32.png"><img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/black/icon32.png"></picture> Ad blockers
 
+<details> <!-- AdGuard Extra -->
+    <summary><a href="https://github.com/AdguardTeam/AdGuardExtra">AdGuard Extra</a> - Fight ad blocking circumvention attempts.</summary><br>
+    <blockquote>
+        <a href="https://github.com/AdguardTeam/AdGuardExtra">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@5d22849/assets/images/screenshots/scripts/adguard-extra.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js">
+            Install Stable Build</a> /
+        💾 <a href="https://userscripts.adtidy.org/beta/adguard-extra/1.0/adguard-extra.user.js">
+            Install Beta Build</a> /
+        📖 <a href="https://github.com/AdguardTeam/AdGuardExtra/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/AdguardTeam/AdGuardExtra/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/AdguardTeam/AdGuardExtra/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- AdsBypasser -->
     <summary><a href="https://adsbypasser.github.io">AdsBypasser</a> - Bypass Ads, Popups and count-down ads.</summary><br>
     <blockquote>
