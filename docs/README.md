@@ -560,7 +560,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
             Readme</a> /
-        📢 <a href="https://codeberg.org/mthsk/userscripts/discussions">
+        📢 <a href="https://codeberg.org/mthsk/userscripts/issues">
             Discuss</a> /
         🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
             Report bug</a>
@@ -1409,7 +1409,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
             Readme</a> /
-        📢 <a href="https://codeberg.org/mthsk/userscripts/discussions">
+        📢 <a href="https://codeberg.org/mthsk/userscripts/issues">
             Discuss</a> /
         🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
             Report bug</a>
