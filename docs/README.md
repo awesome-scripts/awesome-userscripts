@@ -26,7 +26,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 - [Compatibility](#compatibility)
 - [Scripts](#scripts)
-  - [Ad blockers](#-ad-blockers)
+  - [Ad blocking](#-ad-blocking)
   - [Amazon](#-amazon)
   - [Brave](#-brave)
   - [ChatGPT](#-chatgpt)
@@ -489,7 +489,7 @@ Userscripts can be used w/ the following browsers:
 > [!TIP]  
 > To show screenshots/links, click the ▸ or userscript descriptions.
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/white/icon32.png"><img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/black/icon32.png"></picture> Ad blockers
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/white/icon32.png"><img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/black/icon32.png"></picture> Ad blocking
 
 <details> <!-- AdGuard Extra -->
     <summary><a href="https://github.com/AdguardTeam/AdGuardExtra">AdGuard Extra</a> - Fight ad blocking circumvention attempts.</summary><br>
