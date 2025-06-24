@@ -529,6 +529,24 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Simple Sponsor Skipper -->
+    <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors and w/e using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/screenshots/scripts/simple-sponsor-skipper.png?v=96092ef"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            Readme</a> /
+        📢 <a href="https://codeberg.org/mthsk/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- YouTube Classic -->
     <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
     <blockquote>
@@ -1359,6 +1377,24 @@ Userscripts can be used w/ the following browsers:
 
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
+
+<details> <!-- Simple Sponsor Skipper -->
+    <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors and w/e using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/screenshots/scripts/simple-sponsor-skipper.png?v=96092ef"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://codeberg.org/mthsk/userscripts/raw/branch/master/simple-sponsor-skipper/simple-sponsor-skipper.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
+            Readme</a> /
+        📢 <a href="https://codeberg.org/mthsk/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 <details> <!-- YouTube Classic -->
     <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
