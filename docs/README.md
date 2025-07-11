@@ -1394,7 +1394,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Letterboxd Link Badges -->
-    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Letterboxd Link Badges</a> Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">
             <img src="https://github.com/user-attachments/assets/c389af0c-6dd7-41d6-8695-d1bbfc7c5004"></a>
