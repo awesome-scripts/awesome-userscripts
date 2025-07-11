@@ -41,6 +41,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Navigation](#-navigation)
   - [Passwords](#-passwords)
   - [Privacy](#-privacy)
+  - [Reddit](#-reddit)
   - [Text-to-speech](#-text-to-speech)
   - [Translation](#-translation)
   - [YouTube](#-youtube)
@@ -1351,6 +1352,25 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="`https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@fd45bab/assets/images/icons/sites/reddit/icon32.png`"><img height=17 src="[https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/incognito/black/icon32.png](https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@fd45bab/assets/images/icons/sites/reddit/icon32.png)"></picture> Reddit
+
+<details> <!-- Reddit Tab Icons & Title Prefix -->
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">Reddit Tab Icons & Title Prefix</a> - Adds subreddit icons to Reddit tabs and prefixes the tab title with the subreddit name (e.g., `r/SubredditName`) for easier tab identification and navigation.</summary><br>
+    <blockquote>
+        <a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">
+            <img src="https://github.com/user-attachments/assets/5c1d4f50-45f4-4ee2-a3ee-08fd4acbc5a1"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Reddit_Tab_Icons_Title_Prefix.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">
+            Readme</a> /
+        📢 <a href="https://github.com/sinazadeh/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/sinazadeh/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/soundwaves/white/icon32.png"><img height=18 width=21 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/soundwaves/black/icon32.png"></picture> Text-to-speech
 
