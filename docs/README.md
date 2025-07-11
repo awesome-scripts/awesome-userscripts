@@ -1353,7 +1353,7 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-### <img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@66d5192/assets/images/icons/sites/reddit/icon32.png"> Reddit
+### <img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@66d5192/assets/images/icons/sites/reddit/icon32.png"> Reddit
 
 <details> <!-- Reddit Tab Icons & Title Prefix -->
     <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">Reddit Tab Icons & Title Prefix</a> - Adds subreddit icons to Reddit tabs and prefixes the tab title with the subreddit name (e.g., `r/SubredditName`) for easier tab identification and navigation.</summary><br>
@@ -1373,7 +1373,7 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="`https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@fd45bab/assets/images/icons/sites/stremio/icon32.png`"><img height=17 src="[https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/icons/symbols/incognito/black/icon32.png](https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/icons/sites/stremio/icon32.png)"></picture> Stremio
+### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@ec34eea/assets/images/icons/sites/stremio/icon32.png"> Stremio
 
 <details> <!-- Google Search: Stremio Links -->
     <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Google_Search_Stremio_Links.readme.md">Google Search: Stremio Links</a> - Adds convenient "Watch on Stremio" buttons (App & Web) next to IMDb links in Google search results.</summary><br>
