@@ -1459,7 +1459,7 @@ Userscripts can be used w/ the following browsers:
 ### <img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/icons/sites/xbox/icon32.png"> Xbox
 
 <details> <!-- Xbox PriceLens -->
-<summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Xbox PriceLens</a> - Get a clear view of global Xbox pricing. PriceLens adds a powerful, customizable dashboard to game pages, showing you what a game costs in different countries—all in your home currency. Pin your favorite stores and let PriceLens help you focus on the best deals.</summary><br>
+<summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">Xbox PriceLens</a> - Get a clear view of global Xbox pricing. PriceLens adds a powerful, customizable dashboard to game pages, showing you what a game costs in different countries—all in your home currency. Pin your favorite stores and let PriceLens help you focus on the best deals.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">
             <img alt="image" src="https://github.com/user-attachments/assets/0a187c6a-ffa4-44de-9e06-02b9837a4fd7" /></a>
