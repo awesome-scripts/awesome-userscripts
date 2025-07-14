@@ -45,6 +45,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Stremio](#-stremio)
   - [Text-to-speech](#-text-to-speech)
   - [Translation](#-translation)
+  - [Xbox](#-xbox)
   - [YouTube](#-youtube)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -1454,6 +1455,26 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+
+### <img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/icons/sites/xbox/icon32.png"> Xbox
+
+<details> <!-- Xbox PriceLens -->
+<summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Xbox PriceLens</a> - Get a clear view of global Xbox pricing. PriceLens adds a powerful, customizable dashboard to game pages, showing you what a game costs in different countries—all in your home currency. Pin your favorite stores and let PriceLens help you focus on the best deals.</summary><br>
+    <blockquote>
+        <a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">
+            <img alt="image" src="https://github.com/user-attachments/assets/0a187c6a-ffa4-44de-9e06-02b9837a4fd7" /></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Xbox_PriceLens.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">
+            Readme</a> /
+        📢 <a href="https://github.com/sinazadeh/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/sinazadeh/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
 
