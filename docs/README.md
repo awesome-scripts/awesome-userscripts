@@ -45,6 +45,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Stremio](#-stremio)
   - [Text-to-speech](#-text-to-speech)
   - [Translation](#-translation)
+  - [Xbox](#-xbox)
   - [YouTube](#-youtube)
 - [Tutorials](#tutorials)
 - [Community](#community)
@@ -1454,6 +1455,26 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+
+### <img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@5c23f68/assets/images/icons/sites/xbox/icon32.png"> Xbox
+
+<details> <!-- Xbox PriceLens -->
+<summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">Xbox PriceLens</a> - Add prices to Xbox game pages for every country.</summary><br>
+    <blockquote>
+        <a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">
+            <img alt="image" src="https://github.com/user-attachments/assets/0a187c6a-ffa4-44de-9e06-02b9837a4fd7" /></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Xbox_PriceLens.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">
+            Readme</a> /
+        📢 <a href="https://github.com/sinazadeh/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/sinazadeh/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
 
