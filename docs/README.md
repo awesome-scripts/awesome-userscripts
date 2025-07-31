@@ -535,7 +535,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Widescreen -->
-    <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!</summary><br>
+    <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
         <a href="https://www.chatgptwidescreen.com">
             <img width=600 src="https://assets.chatgptwidescreen.com/images/tiles/marquee/tile-625x250.png?v=0ba78c7"></a>
@@ -762,7 +762,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- ChatGPT Widescreen -->
-    <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on perplexity.ai + poe.com!</summary><br>
+    <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
         <a href="https://www.chatgptwidescreen.com">
             <img width=600 src="https://assets.chatgptwidescreen.com/images/tiles/marquee/tile-625x250.png?v=91656d3"></a>
