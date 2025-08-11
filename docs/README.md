@@ -1521,7 +1521,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/youtube-commenter-names.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d/raw/0afe05e43cf196de7f95a735a8251a012b399214/youtube-commenter-names.user.js">
+        💾 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d/raw/youtube-commenter-names.user.js">
             Install</a> /
         📢 <a href="https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d">
             Discuss</a> /
