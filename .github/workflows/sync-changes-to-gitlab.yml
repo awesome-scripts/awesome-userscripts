@@ -1,0 +1,44 @@
+name: Sync changes to GitLab
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    if: (github.repository == 'awesome-scripts/awesome-userscripts')
+    runs-on: ubuntu-latest
+    env:
+      TZ: PST8PDT
+
+    steps:
+
+      - name: Checkout awesome-scripts/awesome-userscripts
+        uses: actions/checkout@v5
+        with:
+          repository: awesome-scripts/awesome-userscripts
+          path: awesome-scripts/awesome-userscripts
+
+      - name: Escape backticks in commit msg
+        env:
+          COMMIT_MSG: ${{ github.event.head_commit.message }}
+        run: |
+          echo "ESCAPED_MSG<<EOF" >> $GITHUB_ENV
+          echo "$COMMIT_MSG" | sed 's/`/\`/g' >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+      
+      - name: Config committer
+        run: |
+          gpg --batch --import <(echo "${{ secrets.GPG_PRIVATE_KEY }}")
+          git config --global commit.gpgsign true
+          git config --global user.name "kudo-sync-bot"
+          git config --global user.email "auto-sync@kudoai.com"
+          git config --global user.signingkey "${{ secrets.GPG_PRIVATE_ID }}"
+
+      - name: Push changes to gitlab.com/awesome-scripts/awesome-userscripts
+        run: |
+          cd ${{ github.workspace }}/awesome-scripts/awesome-userscripts
+          git push --force https://oauth2:${{ secrets.GITLAB_SYNC_PAT }}@gitlab.com/awesome-scripts/awesome-userscripts.git main
