@@ -41,4 +41,4 @@ jobs:
       - name: Push changes to gitlab.com/awesome-scripts/awesome-userscripts
         run: |
           cd ${{ github.workspace }}/awesome-scripts/awesome-userscripts
-          git push --force https://oauth2:${{ secrets.GITLAB_SYNC_PAT }}@gitlab.com/awesome-scripts/awesome-userscripts.git main
+          git push --force https://oauth2:${{ secrets.GITLAB_SYNC_PAT }}@gitlab.com/awesome-scripts/awesome-userscripts.git master
