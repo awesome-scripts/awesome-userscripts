@@ -21,6 +21,7 @@ jobs:
         with:
           repository: awesome-scripts/awesome-userscripts
           path: awesome-scripts/awesome-userscripts
+          fetch-depth: 0
 
       - name: Escape backticks in commit msg
         env:
