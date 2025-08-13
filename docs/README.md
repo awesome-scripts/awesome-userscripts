@@ -1545,6 +1545,22 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- YouTube HD Premium -->
+    <summary><a href="https://greasyfork.org/scripts/498145-youtube-hd-premium">YouTube HD Premium</a> - Automatically switches to your pre-selected resolution. Enables premium when possible.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/498145-youtube-hd-premium">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@ac8f308/assets/images/screenshots/scripts/youtube-hd-premium.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/498145/Youtube%20HD%20Premium.user.js">
+            Install</a> /
+        📢 <a href="https://greasyfork.org/scripts/498145-youtube-hd-premium/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/scripts/498145-youtube-hd-premium/feedback">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- YouTube Play All -->
     <summary><a href="https://github.com/RobertWesner/YouTube-Play-All">YouTube Play All</a> - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.</summary><br>
     <blockquote>
