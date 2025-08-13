@@ -3,6 +3,7 @@ name: Sync changes to GitLab
 on:
   push:
     branches: [main]
+    paths: ['**']
 
 permissions:
   contents: read
