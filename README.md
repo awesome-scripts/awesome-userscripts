@@ -11,7 +11,7 @@
     <img height=31 alt="Awesome" src="https://img.shields.io/badge/Awesome-fc60a9.svg?logo=awesomelists&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="#license">
     <img height=31 alt="Awesome" src="https://img.shields.io/badge/License-CC0_1.0-orange.svg?logo=internetarchive&logoColor=white&labelColor=464646&style=for-the-badge"></a>
-<a href="https://github.com/awesome-scripts/awesome-userscripts/blob/master/docs/CONTRIBUTING.md">
+<a href="https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md">
     <img height=31 alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=github&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 
 <h3>A curated list of Awesome Userscripts.</h3>
@@ -1598,7 +1598,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/docs/CONTRIBUTING.md) for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
