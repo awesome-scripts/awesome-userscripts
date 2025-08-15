@@ -1,7 +1,7 @@
 sync_to_github:
   rules:
     - if: $CI_COMMIT_BRANCH == "master" && $CI_PROJECT_PATH == "awesome-scripts/awesome-userscripts"
-  image: alpine
+  image: alpine:latest
   script:
     - apk add --no-cache git
     - git clone https://gitlab.com/awesome-scripts/awesome-userscripts.git
