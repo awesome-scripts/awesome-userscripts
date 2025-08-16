@@ -1,4 +1,4 @@
-sync_to_github:
+sync_changes_to_github:
   rules:
     - if: $CI_COMMIT_BRANCH == "master" && $CI_PROJECT_PATH == "awesome-scripts/awesome-userscripts"
   image: alpine:latest
