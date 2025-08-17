@@ -41,6 +41,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Navigation](#-navigation)
   - [Passwords](#-passwords)
   - [Privacy](#-privacy)
+  - [Quora](#-quora)
   - [Reddit](#-reddit)
   - [Stremio](#-stremio)
   - [Text-to-speech](#-text-to-speech)
@@ -1350,6 +1351,26 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/victornpb/undiscord/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/victornpb/undiscord/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@4594000/assets/images/icons/sites/quora/icon32.png"> Quora
+
+<details> <!-- Block Quora Poe -->
+    <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI answers from appearing on Quora.</summary><br>
+    <blockquote>
+        <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@c2c23ab/block-quora-poe/assets/images/screenshots/demo.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
