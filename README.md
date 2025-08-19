@@ -535,6 +535,24 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Block Quora Poe -->
+    <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
+    <blockquote>
+        <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@f1c0c7b/block-quora-poe/assets/images/screenshots/demo.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/adamlui/userscripts/discussions">
+            Discuss</a> /
+        🐛 <a href="https://github.com/adamlui/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- ChatGPT Widescreen -->
     <summary><a href="https://www.chatgptwidescreen.com">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
@@ -549,24 +567,6 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/adamlui/chatgpt-widescreen/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/adamlui/chatgpt-widescreen/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-<details> <!-- Quora XUI -->
-    <summary><a href="https://github.com/adamlui/userscripts/blob/master/quora-xui/#readme">Quora XUI</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
-    <blockquote>
-        <a href="https://github.com/adamlui/userscripts/blob/master/quora-xui/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@f1c0c7b/quora-xui/assets/images/screenshots/demo.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/quora-xui/quora-xui.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/adamlui/userscripts/blob/master/quora-xui/#readme">
-            Readme</a> /
-        📢 <a href="https://github.com/adamlui/userscripts/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/userscripts/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1375,16 +1375,16 @@ Userscripts can be used w/ the following browsers:
 
 ### <img height=19 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@4594000/assets/images/icons/sites/quora/icon32.png"> Quora
 
-<details> <!-- Quora XUI -->
-    <summary><a href="https://github.com/adamlui/userscripts/blob/master/quora-xui/#readme">Quora XUI</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
+<details> <!-- Block Quora Poe -->
+    <summary><a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">Block Quora Poe</a> - Blocks low-quality AI + Promoted/Sponsored answers from Quora.</summary><br>
     <blockquote>
-        <a href="https://github.com/adamlui/userscripts/blob/master/quora-xui/#readme">
-            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@f1c0c7b/quora-xui/assets/images/screenshots/demo.png"></a>
+        <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@f1c0c7b/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/quora-xui/quora-xui.user.js">
+        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
             Install</a> /
-        📖 <a href="https://github.com/adamlui/userscripts/blob/master/quora-xui/#readme">
+        📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
             Readme</a> /
         📢 <a href="https://github.com/adamlui/userscripts/discussions">
             Discuss</a> /
