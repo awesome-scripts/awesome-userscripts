@@ -1569,6 +1569,21 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- YouTube Disable Autoplaying -->
+    <summary><a href="https://gist.github.com/lumynou5/b036f405a0888bf9c3b9a3f560e36f3d">YouTube Disable Autoplaying</a> - Disable YouTube autoplaying everywhere.</summary><br>
+    <blockquote>
+        <p>This prevents playlists, shorts, and hovered videos on the home page from autoplaying.</p>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://gist.github.com/lumynou5/b036f405a0888bf9c3b9a3f560e36f3d/raw/youtube-disable-autoplaying.user.js">
+            Install</a> /
+        📢 <a href="https://gist.github.com/lumynou5/b036f405a0888bf9c3b9a3f560e36f3d">
+            Discuss</a> /
+        🐛 <a href="https://gist.github.com/lumynou5/b036f405a0888bf9c3b9a3f560e36f3d">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- YouTube HD Premium -->
     <summary><a href="https://greasyfork.org/scripts/498145-youtube-hd-premium">YouTube HD Premium</a> - Automatically switches to your pre-selected resolution. Enables premium when possible.</summary><br>
     <blockquote>
