@@ -5,4 +5,4 @@ sync_changes_to_github:
   script:
     - apk add --no-cache git
     - git clone https://gitlab.com/awesome-scripts/awesome-userscripts.git
-    - git push --force -o ci.skip https://${GITHUB_SYNC_PAT}@github.com/awesome-scripts/awesome-userscripts.git HEAD:master
+    - git push --force -o ci.skip https://$GITHUB_SYNC_PAT@github.com/awesome-scripts/awesome-userscripts.git HEAD:master
