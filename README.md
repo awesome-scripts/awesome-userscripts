@@ -590,7 +590,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- YouTube Classic -->
-    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
+    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
     <blockquote>
         <a href="https://www.ytclassic.com">
             <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
@@ -1536,7 +1536,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- YouTube Classic -->
-    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.</summary><br>
+    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
     <blockquote>
         <a href="https://www.ytclassic.com">
             <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
