@@ -1,0 +1,999 @@
+// ==UserScript==
+// @name         Gerador De Links Amazon
+// @namespace    http://tampermonkey.net/
+// @version      2.9
+// @description  Gera links com múltiplos IDs de rastreamento automaticamente
+// @author       DayLight
+// @match        https://www.amazon.com.br/*
+// @match        https://amazon.com.br/*
+// @grant        GM_setClipboard
+// @grant        GM_getValue
+// @grant        GM_setValue
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Configuração padrão com alias
+    const DEFAULT_CONFIG = [
+	    { id: 'pob-tele-20', alias: 'Telegram', enabled: true },
+		{ id: 'pob-zap-grupo-20', alias: 'Zap Grupo', enabled: true, "addNotification": true},
+        { id: 'pob-zap-canal-20', alias: 'Zap Canal', enabled: true },
+        { id: 'pob-twt-20', alias: 'Twitter', enabled: true,}
+    ];
+
+    // Configurações de funcionalidades
+    const DEFAULT_SETTINGS = {
+        autoCopyAll: false,
+        showLinksWindow: true,
+        notificationMessage: '🔕 você vai perder 90% das promos se não ativar as notificações do canal'
+    };
+
+    // Carregar configuração salva ou usar padrão
+    let config = GM_getValue('linksConfig', DEFAULT_CONFIG);
+    let settings = GM_getValue('appSettings', DEFAULT_SETTINGS);
+
+    // Migrar configurações antigas se necessário
+    config = config.map(item => ({
+        ...item,
+        addNotification: item.addNotification !== undefined ? item.addNotification : false
+    }));
+
+    // Criar painel compacto
+    function createPanel() {
+        const siteStripe = document.querySelector('.amzn-ss-wrap');
+        if (!siteStripe) {
+            console.error('SiteStripe não encontrado');
+            return;
+        }
+
+        const promoSlot = siteStripe.querySelector('.amzn-ss-promo-slot');
+
+        const panel = document.createElement('div');
+        panel.className = 'amzn-ss-link-container amzn-ss-multi-link-container';
+        panel.id = 'amz-multi-link-panel';
+        panel.style.cssText = `
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            padding: 8px 10px;
+            background: #f7f7f7;
+            border-top: 1px solid #ddd;
+        `;
+
+        panel.innerHTML = `
+            <button id="amz-settings-btn" title="Configurações dos Links" style="
+                background: #232F3E;
+                color: white;
+                border: none;
+                width: 32px;
+                height: 32px;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 16px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            ">⚙️</button>
+            <button id="amz-generate-links" style="
+                background: #FF9900;
+                color: #0F1111;
+                border: none;
+                padding: 8px 16px;
+                border-radius: 4px;
+                cursor: pointer;
+                font-weight: bold;
+                white-space: nowrap;
+                font-size: 13px;
+                font-family: 'Amazon Ember', Arial, sans-serif;
+            ">🔗 Gerar Multi-Links</button>
+            <div id="amz-status" style="
+                font-size: 11px;
+                color: #565959;
+                display: none;
+                font-family: 'Amazon Ember', Arial, sans-serif;
+            "></div>
+        `;
+
+        if (promoSlot) {
+            promoSlot.parentNode.insertBefore(panel, promoSlot.nextSibling);
+        } else {
+            const getLinkContainer = siteStripe.querySelector('.amzn-ss-get-link-container');
+            if (getLinkContainer) {
+                siteStripe.insertBefore(panel, getLinkContainer);
+            } else {
+                siteStripe.appendChild(panel);
+            }
+        }
+
+        attachEventListeners();
+    }
+
+    // Criar modal de configuração
+    function createConfigModal() {
+        const modal = document.createElement('div');
+        modal.id = 'amz-config-modal';
+        modal.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 10001;
+            display: none;
+            align-items: center;
+            justify-content: center;
+        `;
+
+        modal.innerHTML = `
+            <div style="
+                background: white;
+                border-radius: 8px;
+                padding: 20px;
+                max-width: 700px;
+                width: 90%;
+                max-height: 80vh;
+                overflow-y: auto;
+                box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            ">
+                <div style="
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 15px;
+                    border-bottom: 2px solid #FF9900;
+                    padding-bottom: 10px;
+                ">
+                    <h3 style="margin: 0; color: #232F3E;">⚙️ Configurações</h3>
+                    <button id="amz-close-modal" style="
+                        background: none;
+                        border: none;
+                        font-size: 24px;
+                        cursor: pointer;
+                        color: #666;
+                        padding: 0;
+                        width: 30px;
+                        height: 30px;
+                    ">×</button>
+                </div>
+
+                <div style="margin-bottom: 15px;">
+                    <p style="margin: 0 0 10px 0; font-size: 13px; color: #565959;">
+                        Configure os IDs, alias e ordem de geração:
+                    </p>
+                    <div id="amz-config-content"></div>
+                </div>
+
+                <div style="
+                    background: #f0f0f0;
+                    padding: 12px;
+                    border-radius: 6px;
+                    margin-bottom: 15px;
+                ">
+                    <h4 style="margin: 0 0 10px 0; font-size: 13px; color: #232F3E;">⚙️ Funcionalidades</h4>
+                    <label style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px; cursor: pointer;">
+                        <input type="checkbox" id="setting-auto-copy" ${settings.autoCopyAll ? 'checked' : ''} style="cursor: pointer;">
+                        <span style="font-size: 13px;">Copiar todos os links automaticamente</span>
+                    </label>
+                    <label style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px; cursor: pointer;">
+                        <input type="checkbox" id="setting-show-window" ${settings.showLinksWindow ? 'checked' : ''} style="cursor: pointer;">
+                        <span style="font-size: 13px;">Mostrar janela com links individuais</span>
+                    </label>
+                    <div style="margin-top: 10px;">
+                        <label style="font-size: 12px; color: #565959; display: block; margin-bottom: 4px;">Mensagem de notificação:</label>
+                        <input type="text" id="setting-notification-msg" value="${settings.notificationMessage}"
+                            placeholder="Mensagem extra para canais específicos"
+                            style="
+                                width: 100%;
+                                padding: 6px 8px;
+                                border: 1px solid #ddd;
+                                border-radius: 4px;
+                                font-size: 12px;
+                                box-sizing: border-box;
+                            ">
+                    </div>
+                </div>
+
+                <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+                    <button id="amz-add-id" style="
+                        background: #067D62;
+                        color: white;
+                        border: none;
+                        padding: 8px 12px;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-size: 12px;
+                        flex: 1;
+                    ">➕ Adicionar ID</button>
+                </div>
+
+                <button id="amz-save-config" style="
+                    background: #FF9900;
+                    color: white;
+                    border: none;
+                    padding: 10px 15px;
+                    border-radius: 4px;
+                    cursor: pointer;
+                    margin-top: 15px;
+                    width: 100%;
+                    font-weight: bold;
+                ">💾 Salvar Configuração</button>
+
+                <div id="amz-modal-status" style="
+                    margin-top: 10px;
+                    font-size: 12px;
+                    text-align: center;
+                    color: #565959;
+                "></div>
+            </div>
+        `;
+
+        document.body.appendChild(modal);
+        loadConfigUI();
+        attachModalListeners();
+    }
+
+    // Carregar interface de configuração
+    function loadConfigUI() {
+        const content = document.getElementById('amz-config-content');
+
+        content.innerHTML = config.map((item, index) => `
+            <div class="amz-config-item" data-index="${index}" style="
+                display: grid;
+                grid-template-columns: 30px 1fr 1fr 60px 60px 30px;
+                gap: 8px;
+                align-items: center;
+                padding: 8px;
+                background: #f8f8f8;
+                border-radius: 4px;
+                margin-bottom: 8px;
+                border: 2px solid transparent;
+            ">
+                <div style="display: flex; flex-direction: column; gap: 2px;">
+                    <button class="move-up" data-index="${index}" style="
+                        background: #146EB4;
+                        color: white;
+                        border: none;
+                        cursor: pointer;
+                        font-size: 10px;
+                        padding: 2px;
+                        border-radius: 2px;
+                        line-height: 1;
+                    " ${index === 0 ? 'disabled style="opacity: 0.3;"' : ''}>▲</button>
+                    <button class="move-down" data-index="${index}" style="
+                        background: #146EB4;
+                        color: white;
+                        border: none;
+                        cursor: pointer;
+                        font-size: 10px;
+                        padding: 2px;
+                        border-radius: 2px;
+                        line-height: 1;
+                    " ${index === config.length - 1 ? 'disabled style="opacity: 0.3;"' : ''}>▼</button>
+                </div>
+                <input type="text"
+                    class="alias-input"
+                    data-index="${index}"
+                    value="${item.alias}"
+                    placeholder="Ex: Zap Grupo"
+                    style="
+                        padding: 6px 8px;
+                        border: 1px solid #ddd;
+                        border-radius: 4px;
+                        font-size: 13px;
+                    ">
+                <select class="id-select" data-index="${index}" style="
+                    padding: 6px 8px;
+                    border: 1px solid #ddd;
+                    border-radius: 4px;
+                    font-size: 12px;
+                ">
+                    ${getAllAvailableIds().map(id =>
+                        `<option value="${id}" ${item.id === id ? 'selected' : ''}>${id}</option>`
+                    ).join('')}
+                </select>
+                <label style="display: flex; align-items: center; gap: 4px; cursor: pointer; justify-content: center;">
+                    <input type="checkbox"
+                        class="enabled-checkbox"
+                        data-index="${index}"
+                        ${item.enabled ? 'checked' : ''}
+                        style="cursor: pointer;">
+                    <span style="font-size: 12px;">Ativo</span>
+                </label>
+                <label style="display: flex; align-items: center; gap: 4px; cursor: pointer; justify-content: center;" title="Adicionar mensagem de notificação">
+                    <input type="checkbox"
+                        class="notify-checkbox"
+                        data-index="${index}"
+                        ${item.addNotification ? 'checked' : ''}
+                        style="cursor: pointer;">
+                    <span style="font-size: 12px;">🔔 Msg</span>
+                </label>
+                <button class="remove-btn" data-index="${index}" style="
+                    background: #C40000;
+                    color: white;
+                    border: none;
+                    cursor: pointer;
+                    font-size: 16px;
+                    padding: 4px;
+                    border-radius: 4px;
+                    width: 28px;
+                    height: 28px;
+                ">🗑️</button>
+            </div>
+        `).join('');
+
+        content.querySelectorAll('.move-up').forEach(btn => {
+            btn.addEventListener('click', () => moveItem(parseInt(btn.dataset.index), -1));
+        });
+        content.querySelectorAll('.move-down').forEach(btn => {
+            btn.addEventListener('click', () => moveItem(parseInt(btn.dataset.index), 1));
+        });
+        content.querySelectorAll('.remove-btn').forEach(btn => {
+            btn.addEventListener('click', () => removeItem(parseInt(btn.dataset.index)));
+        });
+    }
+
+    function moveItem(index, direction) {
+        const newIndex = index + direction;
+        if (newIndex < 0 || newIndex >= config.length) return;
+
+        [config[index], config[newIndex]] = [config[newIndex], config[index]];
+        loadConfigUI();
+    }
+
+    function removeItem(index) {
+        if (confirm('Deseja remover este item?')) {
+            config.splice(index, 1);
+            loadConfigUI();
+        }
+    }
+
+    function addNewId() {
+        config.push({
+            id: 'pob-zap-grupo-20',
+            alias: 'Novo Link',
+            enabled: true,
+            addNotification: false
+        });
+        loadConfigUI();
+        const content = document.getElementById('amz-config-content');
+        content.scrollTop = content.scrollHeight;
+    }
+
+    function getAllAvailableIds() {
+        return [
+            'pob-zap-grupo-20', 'pob-zap-canal-20', 'pobre-08-20', 'pobre-07-20',
+            'pob-zap-20', 'pob-tele-20', 'pob-twt-20', 'pobre-06-20', 'pobre-05-20',
+            'bluepobre-20', 'pobre-04-20', 'pobre-03-20', 'jvdr-20', 'pobre-02-20',
+            'pobre-01-20', 'tiktok-01-20', 'thread-pobre-04-20', 'thread-pobre-03-20',
+            'thread-pobre-02-20', 'thread-pobre-01-20', 'pobre-ad-08-20', 'pobre-ad-07-20',
+            'pobre-ad-06-20', 'pobre-ad-05-20', 'pobre-ad-04-20', 'pobre-ad-03-20',
+            'pobre-ad-02-20', 'pobre-ad-01-20', 'gamerdasofertas-20', 'pobredoslivros-20',
+            'pobredosiphones-20', 'pobredasofertas-20', 'ofertasninja-20'
+        ];
+    }
+
+    function attachEventListeners() {
+        document.getElementById('amz-settings-btn').addEventListener('click', openConfigModal);
+        document.getElementById('amz-generate-links').addEventListener('click', generateLinks);
+    }
+
+    function attachModalListeners() {
+        const modal = document.getElementById('amz-config-modal');
+        document.getElementById('amz-close-modal').addEventListener('click', closeConfigModal);
+        document.getElementById('amz-save-config').addEventListener('click', saveConfig);
+        document.getElementById('amz-add-id').addEventListener('click', addNewId);
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) closeConfigModal();
+        });
+    }
+
+    function openConfigModal() {
+        document.getElementById('amz-config-modal').style.display = 'flex';
+    }
+
+    function closeConfigModal() {
+        document.getElementById('amz-config-modal').style.display = 'none';
+    }
+
+    function saveConfig() {
+        const items = document.querySelectorAll('.amz-config-item');
+        config = Array.from(items).map((item, index) => ({
+            alias: item.querySelector('.alias-input').value || `Link ${index + 1}`,
+            id: item.querySelector('.id-select').value,
+            enabled: item.querySelector('.enabled-checkbox').checked,
+            addNotification: item.querySelector('.notify-checkbox').checked
+        }));
+
+        settings.autoCopyAll = document.getElementById('setting-auto-copy').checked;
+        settings.showLinksWindow = document.getElementById('setting-show-window').checked;
+        settings.notificationMessage = document.getElementById('setting-notification-msg').value;
+
+        GM_setValue('linksConfig', config);
+        GM_setValue('appSettings', settings);
+
+        const enabledCount = config.filter(c => c.enabled).length;
+        showModalStatus(`✓ Configuração salva! ${enabledCount} ID(s) ativo(s)`, 'success');
+        setTimeout(closeConfigModal, 1000);
+    }
+
+    function showStatus(message, type = 'info') {
+        const status = document.getElementById('amz-status');
+        status.style.display = 'block';
+        status.textContent = message;
+        status.style.color = type === 'success' ? '#067D62' : type === 'error' ? '#C40000' : '#565959';
+    }
+
+    function showModalStatus(message, type = 'info') {
+        const status = document.getElementById('amz-modal-status');
+        status.textContent = message;
+        status.style.color = type === 'success' ? '#067D62' : type === 'error' ? '#C40000' : '#565959';
+    }
+
+    async function generateLinks() {
+        const enabledItems = config.filter(c => c.enabled);
+
+        if (enabledItems.length === 0) {
+            showStatus('❌ Ative pelo menos 1 ID', 'error');
+            setTimeout(() => document.getElementById('amz-status').style.display = 'none', 3000);
+            return;
+        }
+
+        showStatus('⏳ Gerando links...', 'info');
+        const links = [];
+
+        const mainButton = document.getElementById('amzn-ss-get-link-button');
+        if (!mainButton) {
+            showStatus('❌ Botão "Obter link" não encontrado', 'error');
+            return;
+        }
+        mainButton.click();
+        await sleep(1500);
+
+        for (let i = 0; i < enabledItems.length; i++) {
+            const item = enabledItems[i];
+            showStatus(`⏳ Gerando ${i + 1}/${enabledItems.length}: ${item.alias}`, 'info');
+
+            const link = await generateSingleLink(item.id, false);
+            if (link) {
+                links.push({
+                    alias: item.alias,
+                    url: link,
+                    addNotification: item.addNotification
+                });
+            } else {
+                console.error(`Falha ao gerar link para ${item.alias} (${item.id})`);
+            }
+
+            await sleep(800);
+        }
+
+        const closeBtn = document.querySelector('.a-popover-header .a-button-close');
+        if (closeBtn) {
+            closeBtn.click();
+            await sleep(300);
+        }
+
+        if (links.length > 0) {
+            if (settings.autoCopyAll) {
+                const allLinks = links.map(l => `${l.alias}: ${l.url}`).join('\n');
+                GM_setClipboard(allLinks);
+                showStatus(`✓ ${links.length} links copiados!`, 'success');
+            } else {
+                showStatus(`✓ ${links.length} links gerados!`, 'success');
+            }
+
+            if (settings.showLinksWindow) {
+                showLinksWindow(links);
+            }
+        } else {
+            showStatus('❌ Erro ao gerar links', 'error');
+        }
+
+        setTimeout(() => document.getElementById('amz-status').style.display = 'none', 5000);
+    }
+
+    async function generateSingleLink(trackingId, managePopover = true) {
+        try {
+            if (managePopover) {
+                const mainButton = document.getElementById('amzn-ss-get-link-button');
+                if (!mainButton) {
+                    console.error('Botão principal "Obter link" não encontrado');
+                    return null;
+                }
+                mainButton.click();
+                await sleep(1200);
+            }
+
+            const dropdown = document.getElementById('amzn-ss-tracking-id-dropdown-text');
+            if (!dropdown) {
+                console.error('Dropdown não encontrado');
+                return null;
+            }
+
+            dropdown.value = trackingId;
+            dropdown.dispatchEvent(new Event('change', { bubbles: true }));
+            dropdown.dispatchEvent(new Event('input', { bubbles: true }));
+
+            console.log(`✓ ID ${trackingId} selecionado`);
+            await sleep(500);
+
+            const getBtn = document.getElementById('amzn-ss-get-link-btn-text-announce');
+            if (!getBtn) {
+                console.error('Botão "Obter link" do popover não encontrado');
+                return null;
+            }
+
+            if (getBtn.disabled) {
+                console.error('Botão "Obter link" está desabilitado');
+                return null;
+            }
+
+            getBtn.click();
+            console.log(`✓ Clicado em "Obter link" para ${trackingId}`);
+            await sleep(1800);
+
+            const textarea = document.getElementById('amzn-ss-text-shortlink-textarea');
+            if (textarea && textarea.value && textarea.value.includes('http')) {
+                const generatedLink = textarea.value;
+                console.log(`✓ Link capturado: ${generatedLink}`);
+
+                if (managePopover) {
+                    const closeBtn = document.querySelector('.a-popover-header .a-button-close');
+                    if (closeBtn) {
+                        closeBtn.click();
+                        await sleep(600);
+                    }
+                }
+
+                return generatedLink;
+            }
+
+            const errorMsg = document.getElementById('amzn-ss-txt-failure-msg');
+            if (errorMsg && errorMsg.style.display !== 'none') {
+                console.error('Amazon retornou erro ao gerar link');
+                return null;
+            }
+
+            console.error('Link não foi gerado ou textarea vazio');
+            return null;
+        } catch (error) {
+            console.error('Erro ao gerar link:', error);
+            return null;
+        }
+    }
+
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    function showLinksWindow(links) {
+        const existingWindow = document.getElementById('amz-links-window');
+        if (existingWindow) {
+            existingWindow.remove();
+        }
+
+        const modal = document.createElement('div');
+        modal.id = 'amz-links-window';
+        modal.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 10002;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        `;
+
+        const linksHTML = links.map((link, index) => `
+            <div style="
+                display: grid;
+                grid-template-columns: 120px 1fr auto;
+                gap: 10px;
+                align-items: center;
+                padding: 10px;
+                background: ${index % 2 === 0 ? '#f8f8f8' : 'white'};
+                border-radius: 4px;
+                margin-bottom: 6px;
+            ">
+                <span style="font-weight: bold; font-size: 13px; color: #232F3E;">
+                    ${link.alias}${link.addNotification ? ' 🔔' : ''}:
+                </span>
+                <input type="text" readonly value="${link.url}" style="
+                    padding: 6px 8px;
+                    border: 1px solid #ddd;
+                    border-radius: 4px;
+                    font-size: 12px;
+                    font-family: monospace;
+                    background: white;
+                ">
+                <button class="copy-individual" data-url="${link.url}" data-alias="${link.alias}" style="
+                    background: #146EB4;
+                    color: white;
+                    border: none;
+                    padding: 6px 12px;
+                    border-radius: 4px;
+                    cursor: pointer;
+                    font-size: 12px;
+                    white-space: nowrap;
+                ">📋 Copiar</button>
+            </div>
+        `).join('');
+
+        modal.innerHTML = `
+            <div style="
+                background: white;
+                border-radius: 8px;
+                padding: 20px;
+                max-width: 700px;
+                width: 90%;
+                max-height: 80vh;
+                overflow-y: auto;
+                box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            ">
+                <div style="
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 15px;
+                    border-bottom: 2px solid #FF9900;
+                    padding-bottom: 10px;
+                ">
+                    <h3 style="margin: 0; color: #232F3E;">🔗 Links Gerados</h3>
+                    <button id="close-links-window" style="
+                        background: none;
+                        border: none;
+                        font-size: 24px;
+                        cursor: pointer;
+                        color: #666;
+                        padding: 0;
+                        width: 30px;
+                        height: 30px;
+                    ">×</button>
+                </div>
+
+                <div id="links-container">
+                    ${linksHTML}
+                </div>
+
+                <div style="
+                    background: #f0f8ff;
+                    padding: 15px;
+                    border-radius: 6px;
+                    margin-top: 15px;
+                    border: 2px solid #146EB4;
+                ">
+                    <p style="margin: 0 0 8px 0; font-size: 11px; color: #565959;">
+                        Cole a copy base e gere versões com cada link:
+                    </p>
+                    <textarea id="base-text-input" placeholder="HEAD
+
+Nome do Produto
+cupom
+
+preço" style="
+                        width: 100%;
+                        min-height: 120px;
+                        padding: 8px;
+                        border: 1px solid #ddd;
+                        border-radius: 4px;
+                        font-size: 12px;
+                        font-family: monospace;
+                        resize: vertical;
+                        box-sizing: border-box;
+                    "></textarea>
+                    <button id="generate-texts" style="
+                        background: #067D62;
+                        color: white;
+                        border: none;
+                        padding: 8px 15px;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-weight: bold;
+                        margin-top: 8px;
+                        width: 100%;
+                    ">🎯 Gerar Copy com Links</button>
+                </div>
+
+                <div style="
+                    display: flex;
+                    gap: 10px;
+                    margin-top: 15px;
+                    padding-top: 15px;
+                    border-top: 1px solid #ddd;
+                    justify-content: flex-end;
+                ">
+                    <button id="close-links-window-btn" style="
+                        background: #666;
+                        color: white;
+                        border: none;
+                        padding: 10px 15px;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-weight: bold;
+                    ">Fechar</button>
+                </div>
+
+                <div id="copy-feedback" style="
+                    margin-top: 10px;
+                    text-align: center;
+                    font-size: 12px;
+                    color: #067D62;
+                    display: none;
+                "></div>
+            </div>
+        `;
+
+        document.body.appendChild(modal);
+
+        modal.querySelector('#close-links-window').addEventListener('click', () => modal.remove());
+        modal.querySelector('#close-links-window-btn').addEventListener('click', () => modal.remove());
+
+        modal.querySelector('#generate-texts').addEventListener('click', () => {
+            const baseText = modal.querySelector('#base-text-input').value.trim();
+            if (!baseText) {
+                showCopyFeedback('⚠️ Digite um texto base primeiro!');
+                return;
+            }
+            showTextsModal(links, baseText);
+        });
+
+        modal.querySelector('#generate-texts').addEventListener('click', () => {
+            const baseText = modal.querySelector('#base-text-input').value.trim();
+            if (!baseText) {
+                showCopyFeedback('⚠️ Digite um texto base primeiro!');
+                return;
+            }
+            showTextsModal(links, baseText);
+        });
+
+        modal.querySelectorAll('.copy-individual').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const url = btn.dataset.url;
+                const alias = btn.dataset.alias;
+                GM_setClipboard(url);
+                showCopyFeedback(`✓ ${alias} copiado!`);
+                btn.textContent = '✓ Copiado!';
+                btn.style.background = '#067D62';
+                setTimeout(() => {
+                    btn.textContent = '📋 Copiar';
+                    btn.style.background = '#146EB4';
+                }, 2000);
+            });
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.remove();
+        });
+    }
+
+    function showCopyFeedback(message) {
+        const feedback = document.getElementById('copy-feedback');
+        if (feedback) {
+            feedback.textContent = message;
+            feedback.style.display = 'block';
+            setTimeout(() => {
+                feedback.style.display = 'none';
+            }, 2000);
+        }
+    }
+
+    function showTextsModal(links, baseText) {
+        const existingModal = document.getElementById('amz-texts-modal');
+        if (existingModal) {
+            existingModal.remove();
+        }
+
+        const modal = document.createElement('div');
+        modal.id = 'amz-texts-modal';
+        modal.style.cssText = `
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.5);
+            z-index: 10003;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        `;
+
+        const textsHTML = links.map((link, index) => {
+            const fullText = link.addNotification
+                ? `${baseText}\n${link.url}\n\n${settings.notificationMessage}`
+                : `${baseText}\n${link.url}`;
+
+            return `
+                <div style="
+                    background: ${index % 2 === 0 ? '#f8f8f8' : 'white'};
+                    border-radius: 6px;
+                    padding: 12px;
+                    min-width: 0;
+                ">
+                    <div style="
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        margin-bottom: 8px;
+                        gap: 8px;
+                    ">
+                        <h4 style="margin: 0; font-size: 14px; color: #232F3E; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                            ${link.alias} ${link.addNotification ? '🔔' : ''}
+                        </h4>
+                        <button class="copy-text-btn" data-text="${fullText.replace(/"/g, '&quot;')}" style="
+                            background: #FF9900;
+                            color: #0F1111;
+                            border: none;
+                            padding: 6px 12px;
+                            border-radius: 4px;
+                            cursor: pointer;
+                            font-size: 12px;
+                            font-weight: bold;
+                            white-space: nowrap;
+                            flex-shrink: 0;
+                        ">📋 Copiar</button>
+                    </div>
+                    <textarea readonly style="
+                        width: 100%;
+                        min-height: 140px;
+                        padding: 8px;
+                        border: 1px solid #ddd;
+                        border-radius: 4px;
+                        font-size: 12px;
+                        font-family: monospace;
+                        resize: vertical;
+                        background: white;
+                        box-sizing: border-box;
+                    ">${fullText}</textarea>
+                </div>
+            `;
+        }).join('');
+
+        modal.innerHTML = `
+            <div style="
+                background: white;
+                border-radius: 8px;
+                padding: 20px;
+                max-width: 1200px;
+                width: 95%;
+                max-height: 85vh;
+                overflow-y: auto;
+                box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            ">
+                <div style="
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    margin-bottom: 15px;
+                    border-bottom: 2px solid #FF9900;
+                    padding-bottom: 10px;
+                ">
+                    <h3 style="margin: 0; color: #232F3E;">📝 Copys Geradas</h3>
+                    <button id="close-texts-modal" style="
+                        background: none;
+                        border: none;
+                        font-size: 24px;
+                        cursor: pointer;
+                        color: #666;
+                        padding: 0;
+                        width: 30px;
+                        height: 30px;
+                    ">×</button>
+                </div>
+
+                <div id="texts-container" style="
+                    display: grid;
+                    grid-template-columns: repeat(2, 1fr);
+                    gap: 12px;
+                ">
+                    ${textsHTML}
+                </div>
+
+                <div style="
+                    display: flex;
+                    gap: 10px;
+                    margin-top: 15px;
+                    padding-top: 15px;
+                    border-top: 1px solid #ddd;
+                ">
+                    <button id="edit-base-text" style="
+                        background: #146EB4;
+                        color: white;
+                        border: none;
+                        padding: 10px 15px;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-weight: bold;
+                    ">✏️ Editar Copy Base</button>
+                    <button id="close-texts-modal-btn" style="
+                        background: #666;
+                        color: white;
+                        border: none;
+                        padding: 10px 15px;
+                        border-radius: 4px;
+                        cursor: pointer;
+                        font-weight: bold;
+                        margin-left: auto;
+                    ">Fechar</button>
+                </div>
+
+                <div id="texts-feedback" style="
+                    margin-top: 10px;
+                    text-align: center;
+                    font-size: 12px;
+                    color: #067D62;
+                    display: none;
+                "></div>
+            </div>
+        `;
+
+        document.body.appendChild(modal);
+
+        // Botão para voltar e editar a copy base
+        modal.querySelector('#edit-base-text').addEventListener('click', () => {
+            modal.remove();
+            // Reabrir a janela de links com o texto base preenchido
+            const linksWindow = document.getElementById('amz-links-window');
+            if (linksWindow) {
+                const textarea = linksWindow.querySelector('#base-text-input');
+                if (textarea) {
+                    textarea.value = baseText;
+                    textarea.focus();
+                    textarea.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }
+        });
+
+        modal.querySelectorAll('.copy-text-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const text = btn.dataset.text.replace(/&quot;/g, '"');
+                GM_setClipboard(text);
+                showTextsFeedback('✓ Texto copiado!');
+                btn.textContent = '✓ Copiado!';
+                btn.style.background = '#067D62';
+                setTimeout(() => {
+                    btn.textContent = '📋 Copiar';
+                    btn.style.background = '#FF9900';
+                }, 2000);
+            });
+        });
+
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.remove();
+        });
+    }
+
+    function showTextsFeedback(message) {
+        const feedback = document.getElementById('texts-feedback');
+        if (feedback) {
+            feedback.textContent = message;
+            feedback.style.display = 'block';
+            setTimeout(() => {
+                feedback.style.display = 'none';
+            }, 2000);
+        }
+    }
+
+    window.addEventListener('load', () => {
+        const checkSiteStripe = setInterval(() => {
+            const siteStripe = document.querySelector('.amzn-ss-wrap');
+            if (siteStripe) {
+                clearInterval(checkSiteStripe);
+                setTimeout(() => {
+                    createPanel();
+                    createConfigModal();
+                }, 500);
+            }
+        }, 500);
+
+        setTimeout(() => clearInterval(checkSiteStripe), 10000);
+    });
+
+})();
