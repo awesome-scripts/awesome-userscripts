@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@eslint/markdown": "^7.5.1",
-    "@stylistic/eslint-plugin": "^5.5.0",
+    "@stylistic/eslint-plugin": "^5.6.1",
     "eslint": "^9.39.1",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-yml": "^1.19.0",
