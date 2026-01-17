@@ -4,13 +4,12 @@ on:
   push:
     branches: [master]
 
-permissions:
-  contents: read
-
 jobs:
   build:
     if: (github.repository == 'awesome-scripts/awesome-userscripts')
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     env:
       TZ: PST8PDT
 
