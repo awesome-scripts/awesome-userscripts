@@ -11,7 +11,6 @@
     "@stylistic/eslint-plugin": "^5.7.0",
     "eslint": "^9.39.2",
     "eslint-plugin-import": "^2.32.0",
-    "eslint-plugin-yml": "^1.19.1",
     "husky": "^9.1.7"
   }
 }
