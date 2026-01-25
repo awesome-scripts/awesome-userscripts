@@ -1534,6 +1534,21 @@ Userscripts can be used w/ the following browsers:
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
 
+<details> <!-- Disable YouTube Hotkeys with Modern Settings Page -->
+    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys</a> - with Modern Settings Page</summary><br>
+    <blockquote>
+        <p>Disable various YouTube hotkeys with fine-grained control (Excludes Search/Comments)</p>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">
+            Install</a> /
+        📢 <a href="https://yt-hotkeys.vkrishna04.me/">
+            View</a> /
+        🐛 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker/">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- Simple Sponsor Skipper -->
     <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors & filler using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>
     <blockquote>
