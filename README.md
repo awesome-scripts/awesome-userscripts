@@ -24,35 +24,38 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
 
 # Contents
 
-- [Compatibility](#compatibility)
-- [Scripts](#scripts)
-  - [Ad blocking](#-ad-blocking)
-  - [Amazon](#-amazon)
-  - [Brave](#-brave)
-  - [ChatGPT](#-chatgpt)
-  - [Discord](#-discord)
-  - [Display](#-display)
-  - [DuckDuckGo](#-duckduckgo)
-  - [GitHub](#-github)
-  - [Google](#-google)
-  - [Just Eat (UK)](#-just-eat-uk)
-  - [Links](#-links)
-  - [Media](#-media)
-  - [Navigation](#-navigation)
-  - [Passwords](#-passwords)
-  - [Privacy](#-privacy)
-  - [Quora](#-quora)
-  - [Reddit](#-reddit)
-  - [Stremio](#-stremio)
-  - [Text-to-speech](#-text-to-speech)
-  - [Translation](#-translation)
-  - [Xbox](#-xbox)
-  - [YouTube](#-youtube)
-- [Tutorials](#tutorials)
-- [Community](#community)
-- [Additional Catalogues](#additional-catalogues)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contents](#contents)
+  - [Compatibility](#compatibility)
+  - [Scripts](#scripts)
+    - [ Ad blocking](#-ad-blocking)
+    - [ Amazon](#-amazon)
+    - [ Brave](#-brave)
+    - [ ChatGPT](#-chatgpt)
+    - [ Discord](#-discord)
+    - [ Display](#-display)
+    - [ DuckDuckGo](#-duckduckgo)
+    - [ GitHub](#-github)
+    - [ Google](#-google)
+    - [ Just Eat (UK)](#-just-eat-uk)
+    - [ Links](#-links)
+    - [ Media](#-media)
+    - [ Navigation](#-navigation)
+    - [ Passwords](#-passwords)
+    - [ Privacy](#-privacy)
+    - [ Quora](#-quora)
+    - [ Reddit](#-reddit)
+    - [ Stremio](#-stremio)
+    - [ Text-to-speech](#-text-to-speech)
+    - [ Translation](#-translation)
+    - [ Xbox](#-xbox)
+    - [ YouTube](#-youtube)
+  - [Tutorials](#tutorials)
+  - [Additional Catalogues](#additional-catalogues)
+  - [Community](#community)
+  - [Contributing](#contributing)
+  - [Top Contributors](#top-contributors)
+  - [License](#license)
+  - [⭐ Star History](#-star-history)
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1545,7 +1548,7 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://yt-hotkeys.vkrishna04.me/">
             View</a> /
         🐛 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker/">
-            GitHub - Report bug</a>
+            Report bug</a>
     </blockquote>
 </details>
 
