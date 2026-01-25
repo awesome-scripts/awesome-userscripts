@@ -1545,7 +1545,7 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://yt-hotkeys.vkrishna04.me/">
             View</a> /
         🐛 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker/">
-            Github - Report bug</a>
+            GitHub - Report bug</a>
     </blockquote>
 </details>
 
