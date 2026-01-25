@@ -1542,7 +1542,7 @@ Userscripts can be used w/ the following browsers:
     <blockquote>
         💾 <a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">
             Install</a> /
-        📢 <a href="http://yt-hotkeys.vkrishna04.me/">
+        📢 <a href="https://yt-hotkeys.vkrishna04.me/">
             View</a> /
         🐛 <a href="https://github.com/Life-Experimentalist/Youtube-Keystrokes-Blocker/">
             Github - Report bug</a>
