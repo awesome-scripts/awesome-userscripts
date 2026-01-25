@@ -490,7 +490,7 @@ Userscripts can be used w/ the following browsers:
 
 ## Scripts
 
-> [!TIP]  
+> [!TIP]
 > To show screenshots/links, click the ▸ or userscript descriptions.
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/white/icon32.png"><img height=14 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/cancel/black/icon32.png"></picture> Ad blocking
@@ -1534,8 +1534,8 @@ Userscripts can be used w/ the following browsers:
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/youtube/icon32.png"></picture> YouTube
 
-<details> <!--Disable YouTube Hotkeys with Modern Settings Page -->
-    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys with Modern Settings Page</a></summary><br>
+<details> <!-- Disable YouTube Hotkeys with Modern Settings Page -->
+    <summary><a href="https://greasyfork.org/en/scripts/563265-disable-youtube-hotkeys-with-modern-settings-page">Disable YouTube Hotkeys</a> - with Modern Settings Page</summary><br>
     <blockquote>
         <p>Disable various YouTube hotkeys with fine-grained control (Excludes Search/Comments)</p>
     </blockquote>
