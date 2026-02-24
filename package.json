@@ -9,7 +9,7 @@
   "devDependencies": {
     "@eslint/markdown": "^7.5.1",
     "@stylistic/eslint-plugin": "^5.9.0",
-    "eslint": "^9.39.2",
+    "eslint": "^9.39.3",
     "eslint-plugin-import": "^2.32.0",
     "husky": "^9.1.7"
   }
