@@ -1500,13 +1500,13 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/immersive-translate.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.chatgptautotalk.com">
+        💾 <a href="https://github.com/immersive-translate/immersive-translate/releases/latest/download/immersive-translate.user.js">
             Install</a> /
-        📖 <a href="https://docs.chatgptautotalk.com/#readme">
+        📖 <a href="https://github.com/immersive-translate/immersive-translate/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/adamlui/chatgpt-auto-talk/discussions">
+        📢 <a href="https://github.com/immersive-translate/immersive-translate/discussions">
             Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/chatgpt-auto-talk/issues">
+        🐛 <a href="https://github.com/immersive-translate/immersive-translate/issues">
             Report bug</a>
     </blockquote>
 </details>
