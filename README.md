@@ -918,6 +918,24 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- GitHub Commit Sort -->
+    <summary><a href="https://greasyfork.org/zh-CN/scripts/522083">GitHub Commit Sort</a> - Add a button to sort files in a GitHub repository by time.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/zh-CN/scripts/522083">
+            <img width=600 src="https://raw.githubusercontent.com/xiaohuohumax/userscripts/main/apps/github/commit-sort/images/sort.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/522083/GitHub%20%E4%BB%93%E5%BA%93%E6%96%87%E4%BB%B6%E6%8C%89%E6%8F%90%E4%BA%A4%E6%97%B6%E9%97%B4%E6%8E%92%E5%BA%8F%EF%BC%88GitHub%20Commit%20Sort%EF%BC%89.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/xiaohuohumax/userscripts/tree/main/apps/github/commit-sort#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/xiaohuohumax/userscripts/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/xiaohuohumax/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- GitHub Make Tooltips -->
     <summary><a href="https://greasyfork.org/scripts/22194">GitHub Make Tooltips</a> - Convert all titles into GitHub tooltips.</summary><br>
     <blockquote>
