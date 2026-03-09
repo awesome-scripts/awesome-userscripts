@@ -1008,6 +1008,23 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Sort Github Commits By Last Edited -->
+    <summary><a href="https://greasyfork.org/zh-CN/scripts/522083">Sort Github Commits By Last Edited</a> - Add a button to sort GitHub commits by last edited time.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/zh-CN/scripts/522083">
+            <img width=600 src="https://raw.githubusercontent.com/xiaohuohumax/userscripts/main/apps/github/sort-commits-by-last-edited/images/sort.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/522083/sort-github-commits-by-last-edited.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/xiaohuohumax/userscripts/tree/main/apps/github/sort-commits-by-last-edited#readme">
+            Readme</a> /
+        📢 <a href="https://github.com/xiaohuohumax/userscripts/issues">
+            Discuss</a> /
+        🐛 <a href="https://github.com/xiaohuohumax/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/white/icon32.png"><img height=20 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/google/icon32.png"></picture> Google
 
