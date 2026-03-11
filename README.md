@@ -876,6 +876,23 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Fandom Focus -->
+    <summary><a href="https://greasyfork.org/scripts/528895">Fandom Focus</a> - Removes all distractions and unnecessary clutter from Fandom.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/scripts/528895">
+            <img width=720 src="https://raw.githubusercontent.com/samerop/fandom-focus/main/after.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/528895/Fandom%20Focus.user.js">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/scripts/528895">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/scripts/528895/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/scripts/528895/feedback">
+            Report bug</a>
+    </blockquote>
+</details>
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/icon32.png"></picture> DuckDuckGo
 
