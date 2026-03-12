@@ -1098,6 +1098,24 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Gemini Helper -->
+    <summary><a href="https://greasyfork.org/zh-CN/scripts/558318-gemini-helper">Gemini Helper</a> - Your Gemini, Your Way. 打造你的专属 Gemini。</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/zh-CN/scripts/558318-gemini-helper">
+            <img width=511 src="https://raw.githubusercontent.com/gist/urzeye/8d1d3afbbcd0193dbc8a2019b1ba54d3/raw/f7113d329a259963ed1b1ab8cb981e8f635d4cea/gemini.svg"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/zh-CN/scripts/558318-gemini-helper">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/zh-CN/scripts/558318-gemini-helper">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/zh-CN/scripts/558318-gemini-helper/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/zh-CN/scripts/558318-gemini-helper/feedback">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- GoogleGPT -->
     <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
@@ -1112,6 +1130,24 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
+<details> <!-- Ophel Atlas -->
+    <summary><a href="https://greasyfork.org/en/scripts/563646-ophel-atlas-ai-%E5%AF%B9%E8%AF%9D%E7%BB%93%E6%9E%84%E5%8C%96%E4%B8%8E%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7-%E5%85%A8%E8%83%BDai%E5%8A%A9%E6%89%8B-%E6%94%AF%E6%8C%81-gemini-chatgpt-claude-grok-ai-studio-%E8%B1%86%E5%8C%85?locale_override=1">Ophel Atlas</a> - Turn AI conversations into organized, reusable workflows.</summary><br>
+    <blockquote>
+        <a href="https://greasyfork.org/en/scripts/563646-ophel-atlas-ai-%E5%AF%B9%E8%AF%9D%E7%BB%93%E6%9E%84%E5%8C%96%E4%B8%8E%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7-%E5%85%A8%E8%83%BDai%E5%8A%A9%E6%89%8B-%E6%94%AF%E6%8C%81-gemini-chatgpt-claude-grok-ai-studio-%E8%B1%86%E5%8C%85?locale_override=1">
+            <img width=511 src="https://github.com/urzeye/tampermonkey-scripts/raw/main/ophel/assets/logo.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://greasyfork.org/en/scripts/563646-ophel-atlas-ai-%E5%AF%B9%E8%AF%9D%E7%BB%93%E6%9E%84%E5%8C%96%E4%B8%8E%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7-%E5%85%A8%E8%83%BDai%E5%8A%A9%E6%89%8B-%E6%94%AF%E6%8C%81-gemini-chatgpt-claude-grok-ai-studio-%E8%B1%86%E5%8C%85?locale_override=1">
+            Install</a> /
+        📖 <a href="https://greasyfork.org/en/scripts/563646-ophel-atlas-ai-%E5%AF%B9%E8%AF%9D%E7%BB%93%E6%9E%84%E5%8C%96%E4%B8%8E%E5%AF%BC%E8%88%AA%E5%B7%A5%E5%85%B7-%E5%85%A8%E8%83%BDai%E5%8A%A9%E6%89%8B-%E6%94%AF%E6%8C%81-gemini-chatgpt-claude-grok-ai-studio-%E8%B1%86%E5%8C%85?locale_override=1">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/en/scripts/563646/feedback">
+            Discuss</a> /
+        🐛 <a href="https://greasyfork.org/en/scripts/563646/feedback">
             Report bug</a>
     </blockquote>
 </details>
