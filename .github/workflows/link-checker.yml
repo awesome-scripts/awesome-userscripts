@@ -8,6 +8,9 @@ on:
     branches:
       - master
 
+permissions:
+  contents: read
+
 jobs:
   lychee:
     runs-on: ubuntu-latest
@@ -19,6 +22,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           # Check all markdown files, but ignore local fragments and common anti-bot/rate-limited endpoints
-          args: --verbose --no-progress --max-retries 3 --accept 200..299,300..399,403,429 --exclude "googlegpt\.io" "*.md" "**/*.md"
+          args: --verbose --no-progress --max-retries 3 --accept 200..299,300..399,403,429 --exclude "googlegpt\.io" --exclude "ghostbrowser\.com" "*.md" "**/*.md"
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
