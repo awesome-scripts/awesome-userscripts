@@ -522,9 +522,9 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@00884ad/assets/images/screenshots/scripts/adsbypasser.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://adsbypasser.github.io/releases/adsbypasser.full.es7.user.js">
+        💾 <a href="https://github.com/adsbypasser/adsbypasser/releases/latest/download/adsbypasser.full.user.js">
             Install Full Edition</a> /
-        💾 <a href="https://adsbypasser.github.io/releases/adsbypasser.lite.es7.user.js">
+        💾 <a href="https://github.com/adsbypasser/adsbypasser/releases/latest/download/adsbypasser.lite.user.js">
             Install Lite Edition</a> /
         📖 <a href="https://github.com/adsbypasser/adsbypasser/#readme">
             Readme</a> /
@@ -582,9 +582,9 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
             Readme</a> /
-        📢 <a href="https://codeberg.org/mthsk/userscripts/issues">
+        📢 <a href="https://codeberg.org/mthsk/userscripts">
             Discuss</a> /
-        🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
+        🐛 <a href="https://codeberg.org/mthsk/userscripts">
             Report bug</a>
     </blockquote>
 </details>
@@ -977,7 +977,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/nazdridoy/github-commit-labels/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/nazdridoy/github-commit-labels/discussions">
+        📢 <a href="https://github.com/nazdridoy/github-commit-labels/issues">
             Discuss</a> /
         🐛 <a href="https://github.com/nazdridoy/github-commit-labels/issues">
             Report bug</a>
@@ -1157,7 +1157,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/LostInBrittany/share-google-slides-control/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/LostInBrittany/share-google-slides-control/discussions">
+        📢 <a href="https://github.com/LostInBrittany/share-google-slides-control/issues">
             Discuss</a> /
         🐛 <a href="https://github.com/LostInBrittany/share-google-slides-control/issues">
             Report bug</a>
@@ -1217,7 +1217,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/eight04/linkify-plus-plus/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/eight04/linkify-plus-plus/discussions">
+        📢 <a href="https://github.com/eight04/linkify-plus-plus/issues">
             Discuss</a> /
         🐛 <a href="https://github.com/eight04/linkify-plus-plus/issues">
             Report bug</a>
@@ -1586,9 +1586,9 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
             Readme</a> /
-        📢 <a href="https://codeberg.org/mthsk/userscripts/issues">
+        📢 <a href="https://codeberg.org/mthsk/userscripts">
             Discuss</a> /
-        🐛 <a href="https://codeberg.org/mthsk/userscripts/issues">
+        🐛 <a href="https://codeberg.org/mthsk/userscripts">
             Report bug</a>
     </blockquote>
 </details>
@@ -1673,7 +1673,7 @@ Userscripts can be used w/ the following browsers:
             Install</a> /
         📖 <a href="https://github.com/RobertWesner/YouTube-Play-All/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/discussions">
+        📢 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
             Discuss</a> /
         🐛 <a href="https://github.com/RobertWesner/YouTube-Play-All/issues">
             Report bug</a>

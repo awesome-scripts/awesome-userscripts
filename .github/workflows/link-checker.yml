@@ -1,0 +1,24 @@
+name: Link Checker
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Check all markdown files, but ignore local fragments and common anti-bot/rate-limited endpoints
+          args: --verbose --no-progress --exclude-fragments --max-retries 3 --accept 200..299,300..399,403,429 --exclude "googlegpt\.io" "*.md" "**/*.md"
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
