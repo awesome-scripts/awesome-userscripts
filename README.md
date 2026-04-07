@@ -608,6 +608,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for userscript workflow orchestration, automated browser extension management, and multi-agent coordination. MIT licensed.
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/icon32.png"></picture> Amazon
 
 <details> <!-- AmazonGPT -->
