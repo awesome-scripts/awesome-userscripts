@@ -560,7 +560,7 @@ Userscripts can be used w/ the following browsers:
             <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-widescreen@0ba78c7/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/chatgpt-widescreen/refs/heads/main/greasemonkey/chatgpt-widescreen.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
             Install</a> /
         📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
@@ -785,7 +785,7 @@ Userscripts can be used w/ the following browsers:
             <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-infinity@4a7bac9/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/chatgpt-infinity/refs/heads/main/greasemonkey/chatgpt-infinity.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6419/chatgpt-infinity.user.js">
             Install</a> /
         📖 <a href="https://github.com/adamlui/chatgpt-infinity/#readme">
             Readme</a> /
@@ -811,7 +811,7 @@ Userscripts can be used w/ the following browsers:
             <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-widescreen@91656d3/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/chatgpt-widescreen/refs/heads/main/greasemonkey/chatgpt-widescreen.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
             Install</a> /
         📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
@@ -847,7 +847,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/KudoAI/googlegpt/refs/heads/main/greasemonkey/googlegpt.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6371/googlegpt.user.js">
             Install</a> /
         📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
             Readme</a> /
