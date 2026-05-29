@@ -596,7 +596,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://https://scriptcat.org/script-show-page/6345">
+        💾 <a href="https://scriptcat.org/script-show-page/6345">
             Install</a> /
         📖 <a href="https://docs.ytclassic.com/#readme">
             Readme</a> /
@@ -1608,7 +1608,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://https://scriptcat.org/script-show-page/6345">
+        💾 <a href="https://scriptcat.org/script-show-page/6345">
             Install</a> /
         📖 <a href="https://docs.ytclassic.com/#readme">
             Readme</a> /
