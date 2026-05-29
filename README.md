@@ -560,7 +560,7 @@ Userscripts can be used w/ the following browsers:
             <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-widescreen@0ba78c7/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
+        💾 <a href="https://scriptcat.org/script-show-page/6328">
             Install</a> /
         📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
@@ -596,7 +596,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.ytclassic.com">
+        💾 <a href="https://https://scriptcat.org/script-show-page/6345">
             Install</a> /
         📖 <a href="https://docs.ytclassic.com/#readme">
             Readme</a> /
@@ -785,7 +785,7 @@ Userscripts can be used w/ the following browsers:
             <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-infinity@4a7bac9/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://scriptcat.org/scripts/code/6419/chatgpt-infinity.user.js">
+        💾 <a href="https://scriptcat.org/script-show-page/6419">
             Install</a> /
         📖 <a href="https://github.com/adamlui/chatgpt-infinity/#readme">
             Readme</a> /
@@ -811,7 +811,7 @@ Userscripts can be used w/ the following browsers:
             <img width=600 src="https://cdn.jsdelivr.net/gh/adamlui/chatgpt-widescreen@91656d3/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
+        💾 <a href="https://scriptcat.org/script-show-page/6328">
             Install</a> /
         📖 <a href="https://github.com/adamlui/chatgpt-widescreen/#readme">
             Readme</a> /
@@ -847,7 +847,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://scriptcat.org/scripts/code/6371/googlegpt.user.js">
+        💾 <a href="https://scriptcat.org/script-show-page/6371">
             Install</a> /
         📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
             Readme</a> /
@@ -1608,7 +1608,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.ytclassic.com">
+        💾 <a href="https://https://scriptcat.org/script-show-page/6345">
             Install</a> /
         📖 <a href="https://docs.ytclassic.com/#readme">
             Readme</a> /
