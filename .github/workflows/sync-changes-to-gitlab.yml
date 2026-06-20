@@ -16,7 +16,7 @@ jobs:
     steps:
 
       - name: Checkout awesome-scripts/awesome-userscripts
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.0
         with:
           fetch-depth: 0
 
