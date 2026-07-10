@@ -27,7 +27,7 @@ jobs:
           restore-keys: cache-lychee-
 
       - name: Validate links
-        uses: lycheeverse/lychee-action@v2.8.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           # Check all MD files, ignore ok/redir/blocked/rate-limited, exclude commonly down domains
           args: >-
