@@ -16,18 +16,18 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6.0.3
+        uses: actions/checkout@v7.0.1
 
       - name: Restore lychee cache
         id: restore-cache
-        uses: actions/cache/restore@v5.0.5
+        uses: actions/cache/restore@v6.1.0
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
       - name: Validate links
-        uses: lycheeverse/lychee-action@v2.8.0
+        uses: lycheeverse/lychee-action@v2.9.0
         with:
           # Check all MD files, ignore ok/redir/blocked/rate-limited, exclude commonly down domains
           args: >-
@@ -36,12 +36,12 @@ jobs:
             --include-fragments --index-files README.md --exclude "#readme"
             --accept 200..299,300..399,403,429
             --cache --max-cache-age 3d
-            --exclude api\.star-history\.com --exclude browser\.qq\.com --exclude ghostbrowser\.com --exclude openuserjs\.org
+            --exclude api\.star-history\.com --exclude browser\.qq\.com --exclude ghostbrowser\.com --exclude openuserjs\.org --exclude stargazers
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       - name: Save lychee cache
-        uses: actions/cache/save@v5.0.5
+        uses: actions/cache/save@v6.1.0
         if: always()
         with:
           path: .lycheecache
