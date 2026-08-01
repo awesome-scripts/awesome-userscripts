@@ -610,6 +610,22 @@ Userscripts can be used w/ the following browsers:
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/amazon/icon32.png"></picture> Amazon
 
+<details> <!-- Amazon Wishlist Search -->
+    <summary><a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">Amazon Wishlist Search</a> - Adds a search input field to the wishlist dropdown (supports regex search).</summary><br>
+    <blockquote>
+        <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
+            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/refs/heads/main/assets/amazon-wishlist-search-demo-480.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/releases/latest/download/amazon-wishlist-search.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- AmazonGPT -->
     <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
     <blockquote>
@@ -624,22 +640,6 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/KudoAI/amazongpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/amazongpt/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-<details> <!-- userscript-amazon-wishlist-search -->
-    <summary><a href="https://github.com/jhyland87/userscript-amazon-wishlist-search">userscript-amazon-wishlist-search</a> - Adds a search input field to the wishlist dropdown (supports regex search).</summary><br>
-    <blockquote>
-        <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search">
-            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/refs/heads/main/assets/amazon-wishlist-search-demo-480.gif"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/releases/latest/download/amazon-wishlist-search.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/blob/main/README.md">
-            Readme</a> /
-        🐛 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/issues">
             Report bug</a>
     </blockquote>
 </details>
