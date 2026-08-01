@@ -1617,6 +1617,22 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- YouTube A/B Loop -->
+    <summary><a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">YouTube A/B Loop</a> - A lightweight userscript that adds a native A/B loop panel directly into the YouTube player.</summary><br>
+    <blockquote>
+        <a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">
+            <img width=611 src="https://cdn.jsdelivr.net/gh/Black0S/Youtube-Loop-UserScript@66f435b8e98f404291fc0cb57f0fe78e7045aa92/Images/CleanShot 2026-03-10 at 21.39.37%402x.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://scriptcat.org/scripts/code/5570/youtube-ab-loop.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/Black0S/Youtube-Loop-UserScript/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- YouTube Classic -->
     <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
     <blockquote>
