@@ -16,20 +16,19 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7.0.1
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Restore lychee cache
         id: restore-cache
-        uses: actions/cache/restore@v6.1.0
+        uses: actions/cache/restore@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v6.1.0
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
 
       - name: Validate links
-        uses: lycheeverse/lychee-action@v2.9.0
+        uses: lycheeverse/lychee-action@e825bd0ff6d01b38b575eb2182b6a4f27ff9c08c # v2.9.0
         with:
-          # Check all MD files, ignore ok/redir/blocked/rate-limited, exclude commonly down domains
           args: >-
             "*.md" "**/*.md"
             --verbose --no-progress --include-mail
@@ -41,7 +40,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       - name: Save lychee cache
-        uses: actions/cache/save@v6.1.0
+        uses: actions/cache/save@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v6.1.0
         if: always()
         with:
           path: .lycheecache
