@@ -1,5 +1,5 @@
+import importPlugin from 'eslint-plugin-import-x'
 import js from '@eslint/js'
-import importPlugin from 'eslint-plugin-import'
 import markdown from '@eslint/markdown'
 import stylisticJS from '@stylistic/eslint-plugin'
 
@@ -8,7 +8,7 @@ export default [
     {
         files: ['**/*.{js,mjs}'],
         languageOptions: { ecmaVersion: 'latest', sourceType: 'script' },
-        plugins: { 'import': importPlugin, 'js-styles': stylisticJS },
+        plugins: { 'import-x': importPlugin, 'js-styles': stylisticJS },
         rules: {
             ...js.configs.recommended.rules,
             ...importPlugin.flatConfigs.recommended.rules,
@@ -26,9 +26,8 @@ export default [
             'no-inner-declarations': 'off', // allow function declarations anywhere
             'no-useless-escape': 'off', // allow all escape chars cause ESLint sucks at detecting truly useless ones
             'no-unused-vars': ['error', { 'caughtErrors': 'none' }], // allow unused named args in catch blocks
-            'import/no-named-as-default-member': 'off', // allow accessing named exports via default import
-            'import/no-unresolved': ['error', { ignore: ['^(?:https?://)'] }] // allow dynamic imports from URLs...
-                // ...maintainer refuses to support (https://github.com/import-js/eslint-plugin-import/issues/3118)
+            'import-x/no-named-as-default-member': 'off', // allow accessing named exports via default import
+            'import-x/no-unresolved': ['error', { ignore: ['^(?:https?://)'] }] // allow dynamic imports from URLs
         }
     },
     {
