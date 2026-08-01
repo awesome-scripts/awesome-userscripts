@@ -542,7 +542,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/userscripts@a1eefef/block-quora-poe/assets/images/screenshots/demo.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/userscripts/master/block-quora-poe/block-quora-poe.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6906/block-quora-poe.user.js">
             Install</a> /
         📖 <a href="https://github.com/adamlui/userscripts/blob/master/block-quora-poe/#readme">
             Readme</a> /
@@ -590,15 +590,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- YouTube Classic -->
-    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
+    <summary><a href="https://github.com/adamlui/youtube-classic/#readme">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
     <blockquote>
-        <a href="https://www.ytclassic.com">
-            <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
+        <a href="https://github.com/adamlui/youtube-classic/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/youtube-classic@6de3a93/assets/images/screenshots/youtube-classic-ui.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6345/youtube-classic.user.js">
             Install</a> /
-        📖 <a href="https://docs.ytclassic.com/#readme">
+        📖 <a href="https://github.com/adamlui/youtube-classic/#readme">
             Readme</a> /
         📢 <a href="https://github.com/adamlui/youtube-classic/discussions">
             Discuss</a> /
@@ -1634,15 +1634,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- YouTube Classic -->
-    <summary><a href="https://www.ytclassic.com">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
+    <summary><a href="https://github.com/adamlui/youtube-classic/#readme">YouTube Classic</a> - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail/masthead ads.</summary><br>
     <blockquote>
-        <a href="https://www.ytclassic.com">
-            <img width=511 src="https://assets.ytclassic.com/images/screenshots/youtube-classic-ui.png?v=6de3a93"></a>
+        <a href="https://github.com/adamlui/youtube-classic/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/adamlui/youtube-classic@6de3a93/assets/images/screenshots/youtube-classic-ui.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6345/youtube-classic.user.js">
             Install</a> /
-        📖 <a href="https://docs.ytclassic.com/#readme">
+        📖 <a href="https://github.com/adamlui/youtube-classic/#readme">
             Readme</a> /
         📢 <a href="https://github.com/adamlui/youtube-classic/discussions">
             Discuss</a> /
