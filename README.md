@@ -648,15 +648,15 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/white/icon32.png"><img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/icon32.png"></picture> Brave
 
 <details> <!-- BraveGPT -->
-    <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.bravegpt.com">
-            <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
+        <a href="https://github.com/KudoAI/bravegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/bravegpt@a0dd1de/assets/images/screenshots/desktop/bitcoin-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.bravegpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/bravegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
             Discuss</a> /
@@ -705,15 +705,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- BraveGPT -->
-    <summary><a href="https://www.bravegpt.com">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.bravegpt.com">
-            <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
+        <a href="https://github.com/KudoAI/bravegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/bravegpt@a0dd1de/assets/images/screenshots/desktop/bitcoin-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.bravegpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/bravegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
             Discuss</a> /
@@ -839,15 +839,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- DuckDuckGPT -->
-    <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
+        <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/duckduckgpt@702c716/assets/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7197/duckduckgpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.ddgpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/duckduckgpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
             Discuss</a> /
@@ -969,15 +969,15 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/icon32.png"></picture> DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
-    <summary><a href="https://www.duckduckgpt.com">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.duckduckgpt.com">
-            <img width=511 src="https://assets.ddgpt.com/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
+        <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/duckduckgpt@702c716/assets/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7197/duckduckgpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.ddgpt.com/#readme">
+        📖 <a href="https://github.com/KudoAI/duckduckgpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
             Discuss</a> /
