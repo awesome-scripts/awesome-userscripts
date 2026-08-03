@@ -1043,24 +1043,6 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- GitHub Star History -->
-    <summary><a href="https://github.com/adamlui/github-star-history">GitHub Star History</a> - Adds star history chart to every repo's sidebar.</summary><br>
-    <blockquote>
-        <a href="https://github.com/adamlui/github-star-history">
-            <img width=555 src="https://cdn.jsdelivr.net/gh/adamlui/github-star-history@c7bbf09/assets/images/screenshots/star-history-in-sidebar.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/adamlui/github-star-history/main/greasemonkey/github-star-history.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/adamlui/github-star-history/#readme">
-            Readme</a> /
-        📢 <a href="https://github.com/adamlui/github-star-history/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/adamlui/github-star-history/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
 <details> <!-- GitHub static time -->
     <summary><a href="https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time">GitHub static time</a> - Convert time ago into a time format of your choice.</summary><br>
     <blockquote>
@@ -1767,23 +1749,6 @@ Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-
 [![CC0](http://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@8e22f63/assets/images/badges/zero-1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, contributors have waived all copyright and related or neighboring rights to this work.
-
-<img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
-
-## ⭐ Star History
-
-<div align="center">
-
-<a href="https://github.com/awesome-scripts/awesome-userscripts/stargazers">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=awesome-scripts/awesome-userscripts&type=Timeline&theme=dark" />
-        <img width=665 src="https://api.star-history.com/svg?repos=awesome-scripts/awesome-userscripts&type=Timeline" />
-    </picture>
-</a>
-
-<br>
-
-</div>
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/rainbow-blue-to-red.png">
 
