@@ -633,7 +633,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/amazongpt@80bceab/assets/images/screenshots/desktop/mice-md-reply-darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/KudoAI/amazongpt/main/greasemonkey/amazongpt.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/7318/amazongpt.user.js">
             Install</a> /
         📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
             Readme</a> /
@@ -675,7 +675,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/amazongpt@80bceab/assets/images/screenshots/desktop/mice-md-reply-darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/KudoAI/amazongpt/main/greasemonkey/amazongpt.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/7318/amazongpt.user.js">
             Install</a> /
         📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
             Readme</a> /
