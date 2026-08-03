@@ -627,10 +627,10 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- AmazonGPT -->
-    <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/amazongpt/#readme">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://amazongpt.kudoai.com">
-            <img width=511 src="https://amazongpt.kudoai.com/assets/images/screenshots/desktop/mice-md-reply-darkmode.png?v=80bceab"></a>
+        <a href="https://github.com/KudoAI/amazongpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/amazongpt@80bceab/assets/images/screenshots/desktop/mice-md-reply-darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/KudoAI/amazongpt/main/greasemonkey/amazongpt.user.js">
@@ -669,10 +669,10 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/chatgpt/white-on-black/icon50.png"><img height=21 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/chatgpt/black-on-white/icon50.png"></picture> ChatGPT
 
 <details> <!-- AmazonGPT -->
-    <summary><a href="https://amazongpt.kudoai.com">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/amazongpt/#readme">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://amazongpt.kudoai.com">
-            <img width=511 src="https://amazongpt.kudoai.com/assets/images/screenshots/desktop/mice-md-reply-darkmode.png?v=80bceab"></a>
+        <a href="https://github.com/KudoAI/amazongpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/amazongpt@80bceab/assets/images/screenshots/desktop/mice-md-reply-darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/KudoAI/amazongpt/main/greasemonkey/amazongpt.user.js">
