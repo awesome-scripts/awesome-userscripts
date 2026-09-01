@@ -721,22 +721,6 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- ChatGPT Auto-Continue -->
-    <summary><a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">ChatGPT Auto-Continue</a> - Automatically continue generating answers when ChatGPT responses get cut-off.</summary><br>
-    <blockquote>
-        <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">
-            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-continue/3d5b5b0/assets/images/tiles/marquee/tile625x250.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://codeberg.org/adamlui/ai-web-extensions/raw/branch/main/chatgpt-auto-continue/greasemonkey/chatgpt-auto-continue.user.js">
-            Install</a> /
-        📖 <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/docs/#readme">
-            Readme</a> /
-        🐛 <a href="https://codeberg.org/adamlui/ai-web-extensions/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
 <details> <!-- ChatGPT Auto Refresh -->
     <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">ChatGPT Auto Refresh</a> - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.</summary><br>
     <blockquote>
