@@ -1,0 +1,21 @@
+cache = false
+timeout = 30
+max_retries = 3
+retry_wait_time = 5
+max_concurrency = 8
+include_mail = true
+include_fragments = "anchor-only"
+index_files = ["README.md"]
+
+# Bot challenges and rate limits need manual verification, not automatic removal.
+accept = ["200..=399", "403", "429"]
+
+# Existing exceptions for generated badges, blocked hosts, and generated anchors.
+exclude = [
+    '#readme',
+    'api\.star-history\.com',
+    'browser\.qq\.com',
+    'ghostbrowser\.com',
+    'openuserjs\.org',
+    'stargazers',
+]

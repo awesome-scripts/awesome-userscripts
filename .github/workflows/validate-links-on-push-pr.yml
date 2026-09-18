@@ -8,43 +8,55 @@ on:
     branches:
       - master
   schedule:
-    - cron: "17 6 * * 1"
+    - cron: "17 6 * * *"
   workflow_dispatch:
 
 permissions:
   contents: read
 
+concurrency:
+  group: links-${{ github.event_name }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 jobs:
   lychee:
     runs-on: ubuntu-24.04
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Restore lychee cache
-        id: restore-cache
-        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
-        with:
-          path: .lycheecache
-          key: cache-lychee-${{ github.sha }}
-          restore-keys: cache-lychee-
-
       - name: Validate links
+        id: links
+        continue-on-error: true
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
+          lycheeVersion: v0.24.2
           args: >-
-            "*.md" "**/*.md"
-            --verbose --no-progress --include-mail
-            --include-fragments --index-files README.md --exclude "#readme"
-            --accept 200..299,300..399,403,429
-            --cache --max-cache-age 3d
-            --exclude api\.star-history\.com --exclude browser\.qq\.com --exclude ghostbrowser\.com --exclude openuserjs\.org --exclude stargazers
+            --config .lychee.toml --verbose --no-progress
+            README.md CONTRIBUTING.md
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-      - name: Save lychee cache
-        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
-        if: always()
+      - name: Wait before retry
+        if: steps.links.outcome == 'failure'
+        run: sleep 15
+
+      - name: Retry failed link check
+        if: steps.links.outcome == 'failure'
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
-          path: .lycheecache
-          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
+          lycheeVersion: v0.24.2
+          args: >-
+            --config .lychee.toml --verbose --no-progress
+            README.md CONTRIBUTING.md
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - name: Upload link report
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: link-check-report
+          path: lychee/out.md
+          retention-days: 14

@@ -65,6 +65,18 @@ npm run lint
 
 Also open every added or changed link and verify that the install link serves the intended userscript.
 
+### Automated link checks
+
+The required `lychee` check scans `README.md` and `CONTRIBUTING.md` on pull requests, pushes to `master`, and daily at 06:17 UTC. Each run checks links without a persistent cache and saves its report in the Actions job summary and `link-check-report` artifact. A failed scan is retried once after 15 seconds; a second failure blocks the check. Maintainers can also use **Run workflow** under **Actions > Validate links**.
+
+To reproduce the check locally with Lychee 0.24.2:
+
+```sh
+lychee --config .lychee.toml README.md CONTRIBUTING.md
+```
+
+See `.lychee.toml` for timeouts and exclusions. HTTP 403 and 429 responses are tolerated because bot protection and rate limits do not prove a link is dead; verify those links manually. A passing check does not prove that a userscript works or is safe to install.
+
 ## Pull request checklist
 
 - Change is focused on one script or one related improvement.
