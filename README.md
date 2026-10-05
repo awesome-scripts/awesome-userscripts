@@ -40,6 +40,7 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Media](#-media)
   - [Navigation](#-navigation)
   - [Passwords](#-passwords)
+  - [Path of Exile](#-path-of-exile)
   - [Privacy](#-privacy)
   - [Quora](#-quora)
   - [Reddit](#-reddit)
@@ -1309,6 +1310,24 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+
+### <img height=17 src="assets/images/icons/sites/pathofexile/icon32.png"> Path of Exile
+
+<details> <!-- PoE2 Trade Monkey -->
+    <summary><a href="https://github.com/maluramichael/poe2-trade-monkey">PoE2 Trade Monkey</a> - Adds bookmark folders, search history, pinned results, mod filter buttons and a two-column layout to the Path of Exile 2 trade site.</summary><br>
+    <blockquote>
+        <a href="https://github.com/maluramichael/poe2-trade-monkey">
+            <img width=511 src="https://raw.githubusercontent.com/maluramichael/poe2-trade-monkey/master/docs/screenshots/demo.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://raw.githubusercontent.com/maluramichael/poe2-trade-monkey/master/dist/poe2-trade-monkey.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/maluramichael/poe2-trade-monkey#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/maluramichael/poe2-trade-monkey/issues">
+            Report bug</a>
+    </blockquote>
+</details>
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/incognito/white/icon32.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/symbols/incognito/black/icon32.png"></picture> Privacy
 
