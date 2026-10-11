@@ -14,5 +14,10 @@
     "eslint": "^10.9.0",
     "eslint-plugin-import-x": "^4.17.1",
     "husky": "^9.1.7"
+  },
+  "overrides": {
+    "micromark-extension-math": {
+      "katex": "0.18.2"
+    }
   }
 }
