@@ -13,6 +13,7 @@ updates:
     schedule:
       interval: daily
     cooldown:
+      default-days: 7
       semver-minor-days: 7
     groups:
       dev-dependencies:
