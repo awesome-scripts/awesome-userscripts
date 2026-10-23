@@ -11,5 +11,9 @@ jobs:
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: 24
+      - name: Use npm with release-age support
+        run: |
+          npm install --global --prefix "$RUNNER_TEMP/npm-tools" npm@11.21.0 --ignore-scripts --no-audit --no-fund --before="$(node -e 'process.stdout.write(new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString())')"
+          echo "$RUNNER_TEMP/npm-tools/bin" >> "$GITHUB_PATH"
       - run: npm ci --ignore-scripts
       - run: npm run lint
