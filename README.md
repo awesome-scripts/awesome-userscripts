@@ -644,6 +644,22 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- truediscount -->
+    <summary><a href="https://github.com/emirmrkaljevic/truediscount/#readme">truediscount</a> - Shows on Amazon EU and other EU shop product pages whether a discount is real, by comparing the struck-through price with the 30-day lowest price (EU Omnibus rule) and a locally stored price history.</summary><br>
+    <blockquote>
+        <a href="https://github.com/emirmrkaljevic/truediscount/#readme">
+            <img width=511 src="https://raw.githubusercontent.com/emirmrkaljevic/truediscount/1af5c67244a5ff01e083ddb45493db53dd18f62e/docs/demo.gif"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://github.com/emirmrkaljevic/truediscount/releases/latest/download/truediscount.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/emirmrkaljevic/truediscount/#readme">
+            Readme</a> /
+        🐛 <a href="https://github.com/emirmrkaljevic/truediscount/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/white/icon32.png"><img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/icon32.png"></picture> Brave
 
