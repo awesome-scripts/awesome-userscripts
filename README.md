@@ -919,6 +919,24 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
+<details> <!-- Per-Site Light/Dark Mode -->
+    <summary><a href="https://github.com/yyyyyyyan/userscripts/tree/main/scripts/per-site-light-dark-mode#readme">Per-Site Light/Dark Mode</a> - Sets light or dark mode for each site separately, on sites that follow your system's theme setting.</summary><br>
+    <blockquote>
+        <a href="https://github.com/yyyyyyyan/userscripts/tree/main/scripts/per-site-light-dark-mode#readme">
+            <img width=720 src="https://cdn.jsdelivr.net/gh/yyyyyyyan/userscripts@per-site-light-dark-mode-v1.0.2/scripts/per-site-light-dark-mode/images/before-after.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/603623/Per-Site%20LightDark%20Mode.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/yyyyyyyan/userscripts/tree/main/scripts/per-site-light-dark-mode#readme">
+            Readme</a> /
+        📢 <a href="https://greasyfork.org/scripts/603623-per-site-light-dark-mode/feedback">
+            Discuss</a> /
+        🐛 <a href="https://github.com/yyyyyyyan/userscripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/icon32.png"></picture> DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
