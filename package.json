@@ -1,18 +1,22 @@
 {
   "name": "awesome-userscripts",
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "scripts": {
     "prepare": "husky",
     "lint": "eslint . --cache",
     "lint:all": "eslint .",
     "lint:fix": "eslint . --fix --cache",
-    "lint:fix-all": "eslint . --fix"
+    "lint:fix-all": "eslint . --fix",
+    "check:readme": "node scripts/check-readme.mjs"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@eslint/markdown": "^8.0.3",
-    "@stylistic/eslint-plugin": "^5.10.0",
-    "eslint": "^10.9.0",
-    "eslint-plugin-import-x": "^4.17.1",
+    "@stylistic/eslint-plugin": "^6.0.1",
+    "eslint": "^10.15.0",
+    "eslint-plugin-import-x": "^4.18.1",
     "husky": "^9.1.7"
   },
   "overrides": {

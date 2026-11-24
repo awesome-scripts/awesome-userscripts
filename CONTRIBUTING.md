@@ -61,13 +61,14 @@ Use Node.js 24, matching CI:
 ```sh
 npm ci --ignore-scripts
 npm run lint
+npm run check:readme
 ```
 
 Also open every added or changed link and verify that the install link serves the intended userscript.
 
 ### Automated link checks
 
-The required `lychee` check scans `README.md` and `CONTRIBUTING.md` on pull requests, pushes to `master`, and daily at 06:17 UTC. Each run checks links without a persistent cache and saves its report in the Actions job summary and `link-check-report` artifact. A failed scan is retried once after 15 seconds; a second failure blocks the check. Maintainers can also use **Run workflow** under **Actions > Validate links**.
+The required `lychee` check scans `README.md` and `CONTRIBUTING.md` on pull requests, pushes to `master`, and daily at 06:17 UTC. Each run checks links without a persistent cache and saves its report in the Actions job summary and `link-check-report` artifact. A failed scan is retried once after 30 seconds; a second failure blocks the check. Maintainers can also use **Run workflow** under **Actions > Validate links**.
 
 To reproduce the check locally with Lychee 0.24.2:
 
@@ -84,4 +85,4 @@ See `.lychee.toml` for timeouts and exclusions. HTTP 403 and 429 responses are t
 - Description is concise, factual, and ends with a period.
 - Install, documentation, image, and support links work.
 - Script was tested, with browser and userscript manager named in the pull request.
-- `npm run lint` passes.
+- `npm run lint` and `npm run check:readme` pass.
