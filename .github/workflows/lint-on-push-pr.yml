@@ -1,13 +1,28 @@
 name: Lint pushes/PRs
-on: [push, pull_request]
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lint-${{ github.event_name }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 
 jobs:
   lint:
     runs-on: ubuntu-24.04
-    permissions:
-      contents: read
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
       - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: 24
@@ -16,4 +31,5 @@ jobs:
           npm install --global --prefix "$RUNNER_TEMP/npm-tools" npm@11.21.0 --ignore-scripts --no-audit --no-fund --before="$(node -e 'process.stdout.write(new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString())')"
           echo "$RUNNER_TEMP/npm-tools/bin" >> "$GITHUB_PATH"
       - run: npm ci --ignore-scripts
-      - run: npm run lint
+      - run: npm run lint:all
+      - run: npm run check:readme

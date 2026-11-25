@@ -1,8 +1,8 @@
 cache = false
 timeout = 30
 max_retries = 3
-retry_wait_time = 5
-max_concurrency = 8
+retry_wait_time = 10
+max_concurrency = 4
 include_mail = true
 include_fragments = "anchor-only"
 index_files = ["README.md"]

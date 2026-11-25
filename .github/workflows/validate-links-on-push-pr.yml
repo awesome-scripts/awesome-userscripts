@@ -25,6 +25,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
 
       - name: Validate links
         id: links
@@ -40,7 +42,7 @@ jobs:
 
       - name: Wait before retry
         if: steps.links.outcome == 'failure'
-        run: sleep 15
+        run: sleep 30
 
       - name: Retry failed link check
         if: steps.links.outcome == 'failure'

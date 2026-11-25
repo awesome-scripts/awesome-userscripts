@@ -49,9 +49,10 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   - [Xbox](#-xbox)
   - [YouTube](#-youtube)
 - [Tutorials](#tutorials)
-- [Community](#community)
 - [Additional Catalogues](#additional-catalogues)
+- [Community](#community)
 - [Contributing](#contributing)
+- [Top Contributors](#top-contributors)
 - [License](#license)
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
@@ -627,19 +628,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- AmazonGPT -->
-    <summary><a href="https://github.com/KudoAI/amazongpt/#readme">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/amazongpt/#readme">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/amazongpt/#readme">
+        <a href="https://codeberg.org/kudoai/amazongpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/amazongpt@80bceab/assets/images/screenshots/desktop/mice-md-reply-darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7318/amazongpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/amazongpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/amazongpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/amazongpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/amazongpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -648,19 +647,17 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/white/icon32.png"><img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/brave/icon32.png"></picture> Brave
 
 <details> <!-- BraveGPT -->
-    <summary><a href="https://github.com/KudoAI/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/bravegpt/#readme">
+        <a href="https://codeberg.org/kudoai/bravegpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/bravegpt@a0dd1de/assets/images/screenshots/desktop/bitcoin-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/bravegpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/bravegpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/bravegpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/bravegpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -669,19 +666,17 @@ Userscripts can be used w/ the following browsers:
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/chatgpt/white-on-black/icon50.png"><img height=21 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/chatgpt/black-on-white/icon50.png"></picture> ChatGPT
 
 <details> <!-- AmazonGPT -->
-    <summary><a href="https://github.com/KudoAI/amazongpt/#readme">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/amazongpt/#readme">AmazonGPT</a> - Adds AI chat & product/category summaries to Amazon shopping, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/amazongpt/#readme">
+        <a href="https://codeberg.org/kudoai/amazongpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/amazongpt@80bceab/assets/images/screenshots/desktop/mice-md-reply-darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7318/amazongpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/amazongpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/amazongpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/amazongpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/amazongpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/amazongpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -703,19 +698,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- BraveGPT -->
-    <summary><a href="https://github.com/KudoAI/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/bravegpt/#readme">BraveGPT</a> - Adds AI chat & search summaries to Brave Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/bravegpt/#readme">
+        <a href="https://codeberg.org/kudoai/bravegpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/bravegpt@a0dd1de/assets/images/screenshots/desktop/bitcoin-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/bravegpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/bravegpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/bravegpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/bravegpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/bravegpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -798,7 +791,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">ChatGPT Widescreen</a> - Enhances ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!</summary><br>
     <blockquote>
         <a href="https://codeberg.org/adamlui/chatgpt-widescreen/#readme">
-            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-widescreen/91656d3/assets/images/tiles/marquee/tile-625x250.png"></a>
+            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-widescreen/0ba78c7/assets/images/tiles/marquee/tile-625x250.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6328/chatgpt-widescreen.user.js">
@@ -811,37 +804,33 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- DuckDuckGPT -->
-    <summary><a href="https://github.com/KudoAI/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+        <a href="https://codeberg.org/kudoai/duckduckgpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/duckduckgpt@702c716/assets/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7197/duckduckgpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/duckduckgpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/duckduckgpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/duckduckgpt/issues">
             Report bug</a>
     </blockquote>
 </details>
 
 <details> <!-- GoogleGPT -->
-    <summary><a href="https://github.com/KudoAI/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/googlegpt/#readme">
+        <a href="https://codeberg.org/kudoai/googlegpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/6371/googlegpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/googlegpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/googlegpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -885,6 +874,22 @@ Userscripts can be used w/ the following browsers:
 
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@438649d/assets/images/icons/symbols/display/white/icon256.png"><img height=17 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@438649d/assets/images/icons/symbols/display/black/icon256.png"></picture> Display
 
+<details> <!-- Font Rendering (Customized) -->
+    <summary><a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">Font Rendering (Customized)</a> - Customize font rendering on any website: font replacement, anti-aliasing, stroke, shadow, and more.</summary><br>
+    <blockquote>
+        <a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">
+            <img width=720 src="https://raw.githubusercontent.com/F9y4ng/GreasyFork-Scripts/master/images/Font%20Rendering/preview_en.png"></a>
+    </blockquote>
+    <blockquote>
+        💾 <a href="https://update.greasyfork.org/scripts/416688/%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93%EF%BC%88%E8%87%AA%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%89.user.js">
+            Install</a> /
+        📖 <a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">
+            Readme</a> /
+        🐛 <a href="https://github.com/F9y4ng/GreasyFork-Scripts/issues">
+            Report bug</a>
+    </blockquote>
+</details>
+
 <details> <!-- Night Mode -->
     <summary><a href="https://greasyfork.org/scripts/424595-night-mode">Night Mode</a> - Adds a transparent dark layer depending on the time of the day to any website to make it less bright.</summary><br>
     <blockquote>
@@ -903,38 +908,20 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- Font Rendering (Customized) -->
-    <summary><a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">Font Rendering (Customized)</a> - Customize font rendering on any website: font replacement, anti-aliasing, stroke, shadow, and more.</summary><br>
-    <blockquote>
-        <a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">
-            <img width=720 src="https://raw.githubusercontent.com/F9y4ng/GreasyFork-Scripts/master/images/Font%20Rendering/preview_en.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/416688/%E5%AD%97%E4%BD%93%E6%B8%B2%E6%9F%93%EF%BC%88%E8%87%AA%E7%94%A8%E8%84%9A%E6%9C%AC%EF%BC%89.user.js">
-            Install</a> /
-        📖 <a href="https://github.com/F9y4ng/GreasyFork-Scripts/blob/master/README_EN.md#font-rendering-customized-font-renderinguserjs">
-            Readme</a> /
-        🐛 <a href="https://github.com/F9y4ng/GreasyFork-Scripts/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
 ### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/white/icon32.png"><img height=18 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@f11c95f/assets/images/icons/sites/duckduckgo/icon32.png"></picture> DuckDuckGo
 
 <details> <!-- DuckDuckGPT -->
-    <summary><a href="https://github.com/KudoAI/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/duckduckgpt/#readme">DuckDuckGPT</a> - Adds AI chat & search summaries to DuckDuckGo, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+        <a href="https://codeberg.org/kudoai/duckduckgpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/duckduckgpt@702c716/assets/images/screenshots/desktop/how-to-becum-rich-query/lightmode.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://scriptcat.org/scripts/code/7197/duckduckgpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/duckduckgpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/duckduckgpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/duckduckgpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/duckduckgpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1055,7 +1042,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/Kirlovon/classic-google-tabs">Classic Google Tabs</a> - Brings back the "Maps" tab and removes the "AI Mode" tab in Google Search.</summary><br>
     <blockquote>
         <a href="https://github.com/Kirlovon/classic-google-tabs">
-            <img src="https://raw.githubusercontent.com/Kirlovon/classic-google-tabs/main/assets/poster.webp"></a>
+            <img width=511 src="https://raw.githubusercontent.com/Kirlovon/classic-google-tabs/main/assets/poster.webp"></a>
         <p>This is a simple Userscript that reworks Google Search navigation tabs by removing the "AI Mode" tab, restoring the "Maps" tab, and optionally removing the "Short videos" tab.</p>
     </blockquote>
     <blockquote>
@@ -1087,19 +1074,17 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- GoogleGPT -->
-    <summary><a href="https://github.com/KudoAI/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://codeberg.org/kudoai/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://github.com/KudoAI/googlegpt/#readme">
+        <a href="https://codeberg.org/kudoai/googlegpt/#readme">
             <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/KudoAI/googlegpt/refs/heads/main/greasemonkey/googlegpt.user.js">
+        💾 <a href="https://scriptcat.org/scripts/code/6371/googlegpt.user.js">
             Install</a> /
-        📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
+        📖 <a href="https://codeberg.org/kudoai/googlegpt/#readme">
             Readme</a> /
-        📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
-            Discuss</a> /
-        🐛 <a href="https://github.com/KudoAI/googlegpt/issues">
+        🐛 <a href="https://codeberg.org/kudoai/googlegpt/issues">
             Report bug</a>
     </blockquote>
 </details>
@@ -1388,7 +1373,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/YokoAC/reddit-scroller">Reddit Scroller</a> - Auto-scrolls feeds and threads with the numpad, with an on-screen readout of speed, state and the post in focus.</summary><br>
     <blockquote>
         <a href="https://github.com/YokoAC/reddit-scroller">
-            <img src="https://raw.githubusercontent.com/YokoAC/reddit-scroller/main/docs/screenshot.png"></a>
+            <img width=511 src="https://raw.githubusercontent.com/YokoAC/reddit-scroller/main/docs/screenshot.png"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://update.greasyfork.org/scripts/595951/Reddit%20Scroller.user.js">
@@ -1401,10 +1386,10 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Reddit Tab Icons & Title Prefix -->
-    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">Reddit Tab Icons & Title Prefix</a> - Adds subreddit icons to Reddit tabs and prefixes the tab title with the subreddit name (e.g., `r/SubredditName`) for easier tab identification and navigation.</summary><br>
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">Reddit Tab Icons & Title Prefix</a> - Adds subreddit icons to Reddit tabs and prefixes the tab title with the subreddit name (e.g., <code>r/SubredditName</code>) for easier tab identification and navigation.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Reddit_Tab_Icons_Title_Prefix.readme.md">
-            <img src="https://github.com/user-attachments/assets/5c1d4f50-45f4-4ee2-a3ee-08fd4acbc5a1"></a>
+            <img width=511 src="https://github.com/user-attachments/assets/5c1d4f50-45f4-4ee2-a3ee-08fd4acbc5a1"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Reddit_Tab_Icons_Title_Prefix.user.js">
@@ -1424,7 +1409,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Google_Search_Stremio_Links.readme.md">Google Search: Stremio Links</a> - Adds convenient "Watch on Stremio" buttons (App & Web) next to IMDb links in Google search results.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Google_Search_Stremio_Links.readme.md">
-            <img src="https://github.com/user-attachments/assets/106e9aeb-b649-4096-b3c6-ffc3ad23490f"></a>
+            <img width=511 src="https://github.com/user-attachments/assets/106e9aeb-b649-4096-b3c6-ffc3ad23490f"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Google_Search_Stremio_Links.user.js">
@@ -1442,7 +1427,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">Letterboxd Link Badges</a> - Enhances Letterboxd film pages by replacing IMDb/TMDb text links with icons and adding direct "Watch on Stremio" badges.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Letterboxd_Link_Badges.readme.md">
-            <img src="https://github.com/user-attachments/assets/c389af0c-6dd7-41d6-8695-d1bbfc7c5004"></a>
+            <img width=511 src="https://github.com/user-attachments/assets/c389af0c-6dd7-41d6-8695-d1bbfc7c5004"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Letterboxd_Link_Badges.user.js">
@@ -1518,10 +1503,10 @@ Userscripts can be used w/ the following browsers:
 ### <img height=16 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts@5c23f68/assets/images/icons/sites/xbox/icon32.png"> Xbox
 
 <details> <!-- Xbox PriceLens -->
-<summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">Xbox PriceLens</a> - Add prices to Xbox game pages for every country.</summary><br>
+    <summary><a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">Xbox PriceLens</a> - Add prices to Xbox game pages for every country.</summary><br>
     <blockquote>
         <a href="https://github.com/sinazadeh/userscripts/blob/main/Xbox_PriceLens.readme.md">
-            <img alt="image" src="https://github.com/user-attachments/assets/0a187c6a-ffa4-44de-9e06-02b9837a4fd7" /></a>
+            <img width=511 src="https://github.com/user-attachments/assets/0a187c6a-ffa4-44de-9e06-02b9837a4fd7"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://raw.githubusercontent.com/sinazadeh/userscripts/refs/heads/main/Xbox_PriceLens.user.js">
@@ -1553,7 +1538,7 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- Simple Sponsor Skipper -->
-    <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors & filler using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>
+    <summary><a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">Simple Sponsor Skipper</a> - Skips annoying intros, sponsors and filler using the SponsorBlock API. Compatible w/ YouTube, Invidious, CloudTube & Odysee.</summary><br>
     <blockquote>
         <a href="https://greasyfork.org/scripts/453320-simple-sponsor-skipper">
             <img width=511 src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/screenshots/scripts/simple-sponsor-skipper.png?v=96092ef"></a>
@@ -1574,10 +1559,10 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">YouTube A/B Loop</a> - A lightweight userscript that adds a native A/B loop panel directly into the YouTube player.</summary><br>
     <blockquote>
         <a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">
-            <img width=588 src="https://cdn.jsdelivr.net/gh/Black0S/Youtube-Loop-UserScript@66f435b8e98f404291fc0cb57f0fe78e7045aa92/Images/CleanShot 2026-03-10 at 21.39.37%402x.png"></a>
+            <img width=588 src="https://cdn.jsdelivr.net/gh/Black0S/Youtube-Loop-UserScript@66f435b8e98f404291fc0cb57f0fe78e7045aa92/Images/CleanShot%202026-03-10%20at%2021.39.37%402x.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript-/refs/heads/main/youtube-loop.js">
+        💾 <a href="https://raw.githubusercontent.com/Black0S/Youtube-Loop-UserScript/main/youtube-loop.js">
             Install</a> /
         📖 <a href="https://github.com/Black0S/Youtube-Loop-UserScript/#readme">
             Readme</a> /
