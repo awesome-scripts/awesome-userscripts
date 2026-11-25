@@ -12,11 +12,11 @@ function addError(line, message) {
     errors.push(line ? `README.md:${line}: ${message}` : `README.md: ${message}`)
 }
 
-function slugifyHeading(rawHeading) {
-    const hasLeadingHtml = /^</.test(rawHeading.trim())
-    const text = rawHeading.replace(/<[^>]+>/g, '').trim()
+// Headings are plain text with an optional leading HTML icon
+function parseHeading(rawHeading) {
+    const [, icon, text] = rawHeading.trim().match(/^((?:<[^>]+>\s*)*)(.*)$/s)
     const slug = text.toLowerCase().replace(/[^a-z0-9 -]/g, '').replace(/ /g, '-')
-    return hasLeadingHtml ? `-${slug}` : slug
+    return { label: text, anchor: icon ? `-${slug}` : slug }
 }
 
 // 1. Check balanced HTML tags
@@ -45,9 +45,7 @@ const bodyHeadings = []
 for (let i = 0; i < lines.length; i++) {
     const match = lines[i].match(/^(#{2,3})\s+(.+)$/)
     if (!match) continue
-    const raw = match[2].trim()
-    const label = raw.replace(/<[^>]+>/g, '').trim()
-    bodyHeadings.push({ line: i + 1, level: match[1].length, label, anchor: slugifyHeading(raw) })
+    bodyHeadings.push({ line: i + 1, level: match[1].length, ...parseHeading(match[2]) })
 }
 
 if (tocItems.length !== bodyHeadings.length) {
@@ -72,7 +70,7 @@ let currentCategory = null
 for (let i = scriptsStart + 1; i < scriptsEnd; i++) {
     const line = lines[i]
     if (line.startsWith('### ')) {
-        const name = line.slice(4).replace(/<[^>]+>/g, '').trim()
+        const name = parseHeading(line.slice(4)).label
         currentCategory = name
         categories.push({ line: i + 1, name })
         entriesByCategory.set(name, [])
